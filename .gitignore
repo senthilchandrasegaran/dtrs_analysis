@@ -3,3 +3,5 @@
 *.swp*
 data/*
 output/*
+data.zip
+output.zip
