@@ -17,7 +17,7 @@ command:
 ```bash
 which python3
 ```
-...and make sure the response has somethig about 3.8.x.
+...and make sure the response has something about 3.8.x.
 
 ### Python Package Installer (PIP)
 
