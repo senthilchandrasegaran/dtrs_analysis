@@ -72,6 +72,12 @@ One of the newer and faster NLP libraries.
 ```bash
 pip3 install spacy
 ```
+#### Empath
+To create custom linguistic categories
+
+```bash
+pip3 install empath
+```
 ### Jupyter
 Computational notebook based on Python.
 ```bash
