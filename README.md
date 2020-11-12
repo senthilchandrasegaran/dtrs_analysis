@@ -75,7 +75,7 @@ pip3 install spacy
 Download the English language model for Spacy:
 
 ```bash
-python -m spacy download en_core_web_sm
+python3 -m spacy download en_core_web_sm
 ```
 
 #### Empath
