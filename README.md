@@ -72,13 +72,19 @@ One of the newer and faster NLP libraries.
 ```bash
 pip3 install spacy
 ```
+Download the English language model for Spacy:
+
+```bash
+python -m spacy download en_core_web_sm
+```
+
 #### Empath
 To create custom linguistic categories
 
 ```bash
 pip3 install empath
 ```
-### Jupyter
+#### Jupyter
 Computational notebook based on Python.
 ```bash
 pip3 install jupyter
