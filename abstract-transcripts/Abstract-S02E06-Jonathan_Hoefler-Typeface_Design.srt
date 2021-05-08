@@ -1,0 +1,3590 @@
+﻿1
+00:00:13,346 --> 00:00:15,432
+[Jonathan] <i>New York
+is a wonderful place to walk around</i>
+
+2
+00:00:15,515 --> 00:00:18,435
+<i>and see how letters exist
+in the environment.</i>
+
+3
+00:00:20,061 --> 00:00:21,396
+<i>I think, as a typeface designer,</i>
+
+4
+00:00:21,479 --> 00:00:23,773
+<i>you can't help but look
+at the typography of everything.</i>
+
+5
+00:00:25,900 --> 00:00:28,528
+<i>One of the really fun things
+about typeface design</i>
+
+6
+00:00:28,611 --> 00:00:30,739
+<i>is nothing is out of bounds.</i>
+
+7
+00:00:31,239 --> 00:00:33,783
+<i>You can love rare manuscripts.</i>
+
+8
+00:00:34,200 --> 00:00:39,080
+<i>You can love graffiti. You can love logos
+done by Madison Avenue design agencies.</i>
+
+9
+00:00:40,123 --> 00:00:43,668
+<i>Everything you've ever read
+has been shaped by hand.</i>
+
+10
+00:00:44,627 --> 00:00:47,922
+<i>It's a profound thought
+that every single letter you consume,</i>
+
+11
+00:00:48,006 --> 00:00:50,633
+<i>that there is somewhere a person,
+or a team of people,</i>
+
+12
+00:00:50,717 --> 00:00:51,968
+<i>who have drawn this thing</i>
+
+13
+00:00:52,052 --> 00:00:54,179
+<i>and released it into the world.</i>
+
+14
+00:00:55,055 --> 00:00:57,307
+<i>We reach a point where everybody
+has a favorite typeface.</i>
+
+15
+00:00:57,390 --> 00:01:01,061
+<i>The fact that you can choose the font
+on your phone or your computer</i>
+
+16
+00:01:01,144 --> 00:01:04,189
+<i>has really sensitized everyone
+to what typography can do.</i>
+
+17
+00:01:05,106 --> 00:01:08,443
+<i>We're making raw materials
+that are open to interpretation.</i>
+
+18
+00:01:08,526 --> 00:01:11,780
+<i>That's really what it is
+that moves visual culture forward. </i>
+
+19
+00:01:28,213 --> 00:01:30,298
+[woman] <i>Jonathan was this wunderkind.</i>
+
+20
+00:01:30,381 --> 00:01:33,259
+<i>You know, he had such an amazing way
+of thinking about type. </i>
+
+21
+00:01:34,010 --> 00:01:36,429
+[woman 2] <i>He started young
+and almost instantly became</i>
+
+22
+00:01:36,513 --> 00:01:38,890
+<i>one of the most
+influential designers of our time.</i>
+
+23
+00:01:39,224 --> 00:01:43,353
+[man] <i>It's rare when you meet someone with
+such relentless desire for perfection. </i>
+
+24
+00:01:43,436 --> 00:01:46,397
+<i>He has a complete awareness
+of time and place. </i>
+
+25
+00:01:47,565 --> 00:01:50,151
+[woman 3] <i>Jonathan's right up there
+with the best of the best.</i>
+
+26
+00:01:50,235 --> 00:01:51,986
+<i>He is the best of the best. </i>
+
+27
+00:01:57,784 --> 00:01:59,202
+[Jonathan] Typography is a dialogue
+
+28
+00:01:59,285 --> 00:02:01,871
+between typeface designers
+who create alphabets
+
+29
+00:02:01,955 --> 00:02:03,873
+and graphic designers who use them.
+
+30
+00:02:03,957 --> 00:02:05,458
+And it's a two-way street.
+
+31
+00:02:05,917 --> 00:02:09,504
+The Public Theater behind us
+has an identity designed by Paula Scher,
+
+32
+00:02:09,671 --> 00:02:11,339
+who was in season one of <i>Abstract.</i>
+
+33
+00:02:11,422 --> 00:02:14,509
+I grew up at a time
+when Paula's work was everywhere.
+
+34
+00:02:14,592 --> 00:02:17,095
+And I grew up, therefore,
+with a sense that wood type
+
+35
+00:02:17,178 --> 00:02:19,097
+was part of the fabric of typography.
+
+36
+00:02:19,597 --> 00:02:21,683
+In the early '90s, I began
+
+37
+00:02:21,808 --> 00:02:24,394
+creating a typeface family of my own
+called Knockout.
+
+38
+00:02:24,561 --> 00:02:27,564
+It's meant to be inspired
+by these kinds of wood types.
+
+39
+00:02:27,897 --> 00:02:29,899
+So, it was really kind of a delight that
+
+40
+00:02:29,983 --> 00:02:32,443
+Paula, when she designed the identity
+for the Public Theater,
+
+41
+00:02:32,527 --> 00:02:34,154
+used Knockout for the design.
+
+42
+00:02:34,404 --> 00:02:37,240
+So, it's really this
+sort of wonderful synergy of...
+
+43
+00:02:37,699 --> 00:02:39,784
+being inspired by graphic designers,
+
+44
+00:02:40,118 --> 00:02:42,495
+creating typefaces
+that get used by graphic designers,
+
+45
+00:02:42,871 --> 00:02:45,123
+and seeing the way they do things
+that are unexpected.
+
+46
+00:02:46,082 --> 00:02:48,001
+<i>Typefaces are a raw material. </i>
+
+47
+00:02:48,209 --> 00:02:50,461
+<i>To be a typeface designer is like</i>
+
+48
+00:02:50,545 --> 00:02:53,047
+<i>being the designer of a color of paint.</i>
+
+49
+00:02:53,381 --> 00:02:55,925
+<i>We're not painting houses,
+we're not decorating houses,</i>
+
+50
+00:02:56,009 --> 00:02:57,385
+<i>we're supplying the color. </i>
+
+51
+00:02:59,929 --> 00:03:01,639
+<i>♪ These are letters ♪</i>
+
+52
+00:03:05,560 --> 00:03:07,353
+<i>Typeface design is sleight of hand.</i>
+
+53
+00:03:07,604 --> 00:03:11,482
+<i>Even a simple goal, like make all
+the letters the same size, isn't easy.</i>
+
+54
+00:03:11,733 --> 00:03:14,485
+<i>To make the letters C and T
+appear the same height,</i>
+
+55
+00:03:14,569 --> 00:03:17,363
+<i>the C has to be drawn
+so that it's actually taller.</i>
+
+56
+00:03:17,739 --> 00:03:19,282
+<i>Round letters exceed flat ones</i>
+
+57
+00:03:19,365 --> 00:03:21,951
+<i>by an amount the type designer
+has called overshoot.</i>
+
+58
+00:03:25,163 --> 00:03:27,123
+<i>Another goal of typeface design
+is balance.</i>
+
+59
+00:03:27,624 --> 00:03:31,044
+<i>To make a letter like B feel as if its top
+and bottom halves match,</i>
+
+60
+00:03:31,127 --> 00:03:32,795
+<i>they often need to be drawn differently.</i>
+
+61
+00:03:33,421 --> 00:03:36,716
+<i>Turn it over, and you'll see that
+it's actually smaller above than below.</i>
+
+62
+00:03:38,676 --> 00:03:42,138
+<i>The humble letter T conceals
+one of the alphabet's great paradoxes.</i>
+
+63
+00:03:42,430 --> 00:03:45,350
+<i>To make vertical and horizontal strokes
+look equally thick,</i>
+
+64
+00:03:45,516 --> 00:03:48,603
+<i>the verticals are drawn much thicker
+than the horizontals.</i>
+
+65
+00:03:48,686 --> 00:03:52,440
+<i>This is called anisotropic contrast,
+and it affects all the letters,</i>
+
+66
+00:03:52,523 --> 00:03:55,151
+<i>none more so than the diabolical letter S.</i>
+
+67
+00:03:55,652 --> 00:03:58,988
+<i>An S that's balanced and centered
+looks bizarre when turned around.</i>
+
+68
+00:03:59,072 --> 00:04:01,157
+<i>It's thinner at the top and bottom,</i>
+
+69
+00:04:01,449 --> 00:04:03,993
+<i>thicker in the middle,
+and it leans slightly backwards.</i>
+
+70
+00:04:16,089 --> 00:04:19,634
+<i>Typeface design is a slow process.
+It can take decades, sometimes.</i>
+
+71
+00:04:19,717 --> 00:04:23,012
+<i>There is no obvious route
+from beginning to end,</i>
+
+72
+00:04:23,096 --> 00:04:25,807
+<i>and there's no guarantee
+of getting to the end, either.</i>
+
+73
+00:04:27,141 --> 00:04:28,768
+<i>About ten years ago,</i>
+
+74
+00:04:28,935 --> 00:04:31,479
+<i>I had an idea that I'd buy a wristwatch.</i>
+
+75
+00:04:32,272 --> 00:04:34,607
+<i>As I began really looking critically
+at watches,</i>
+
+76
+00:04:34,691 --> 00:04:37,944
+<i>I noticed that a watch
+that's 40 years old or older</i>
+
+77
+00:04:38,027 --> 00:04:41,197
+<i>has a characteristic
+kind of lettering on it</i>
+
+78
+00:04:41,489 --> 00:04:43,032
+<i>that's really quite beautiful.</i>
+
+79
+00:04:43,992 --> 00:04:47,954
+<i>I was thinking that there might be
+something in this whole milieu</i>
+
+80
+00:04:48,037 --> 00:04:50,290
+<i>that could inspire a family of typefaces. </i>
+
+81
+00:04:51,541 --> 00:04:53,293
+This thing is great. This is like a...
+
+82
+00:04:53,710 --> 00:04:56,921
+heavy metal sans-serif
+with these sort of hexagonal,
+
+83
+00:04:57,005 --> 00:04:59,841
+bone-shaped figures
+that are just fantastic.
+
+84
+00:05:00,341 --> 00:05:02,844
+But I really love these kinds of things
+that are so much simpler.
+
+85
+00:05:02,927 --> 00:05:06,222
+I mean, this is a very boxy,
+almost octagonal
+
+86
+00:05:06,472 --> 00:05:08,558
+form of lettering and numbering.
+
+87
+00:05:08,641 --> 00:05:10,184
+And you see the same kind of thing here,
+
+88
+00:05:10,268 --> 00:05:12,478
+but a little more sophistication
+in this one.
+
+89
+00:05:13,896 --> 00:05:16,107
+<i>Michael Bierut once described what I do.</i>
+
+90
+00:05:16,316 --> 00:05:20,111
+<i>He compared it to the archaeologist
+who finds a bone,</i>
+
+91
+00:05:20,278 --> 00:05:22,572
+<i>and from the bone,
+like, creates the entire dinosaur.</i>
+
+92
+00:05:23,072 --> 00:05:25,742
+<i>A lot of what I do is finding those bones</i>
+
+93
+00:05:25,908 --> 00:05:28,953
+<i>and trying to imagine
+what kind of creature they came from.</i>
+
+94
+00:05:29,620 --> 00:05:31,539
+[ticking]
+
+95
+00:05:37,962 --> 00:05:40,923
+Type design is different now
+than when I started doing this.
+
+96
+00:05:41,257 --> 00:05:42,925
+To be a type designer was to be a freak.
+
+97
+00:05:44,218 --> 00:05:47,764
+I always dreaded
+the conversation on an airline
+
+98
+00:05:47,847 --> 00:05:50,016
+with my seat mate saying,
+"What do you do for a living?"
+
+99
+00:05:50,266 --> 00:05:52,185
+People would think
+I designed the magazine itself
+
+100
+00:05:52,268 --> 00:05:55,146
+or I wrote the magazine,
+or I, you know, made the ads or something.
+
+101
+00:05:55,229 --> 00:05:58,316
+And I'd say, "No, I design the alphabet
+being used for the text you're reading."
+
+102
+00:05:58,399 --> 00:06:00,777
+And it was the incredulity of like,
+"What do you mean?
+
+103
+00:06:00,860 --> 00:06:03,571
+That's like designing oxygen.
+No... No one designs that."
+
+104
+00:06:05,156 --> 00:06:07,408
+That gave way to a period
+of greater understanding,
+
+105
+00:06:07,492 --> 00:06:09,994
+as digital tools made fonts
+
+106
+00:06:10,078 --> 00:06:11,913
+something palpable to people.
+
+107
+00:06:11,996 --> 00:06:15,375
+Grade schoolers choose a font to write
+a term paper in. You can't not choose.
+
+108
+00:06:16,542 --> 00:06:19,754
+But now we've entered this third phase
+where people have favorite fonts.
+
+109
+00:06:19,837 --> 00:06:22,090
+Now when I'm asked what I do,
+I say, "I design typefaces,"
+
+110
+00:06:22,173 --> 00:06:23,633
+and people say, "I love typefaces!
+
+111
+00:06:23,716 --> 00:06:25,802
+Do you guys know
+the guy that made Papyrus?"
+
+112
+00:06:25,885 --> 00:06:26,803
+Or whatever it is.
+
+113
+00:06:28,846 --> 00:06:31,849
+It's funny going through life
+as somebody who is attentive to type.
+
+114
+00:06:37,063 --> 00:06:39,023
+There was this fantastic
+<i>Saturday Night Live </i>sketch
+
+115
+00:06:39,107 --> 00:06:41,734
+in which Ryan Gosling is driven crazy
+by this ubiquitous typeface.
+
+116
+00:06:42,110 --> 00:06:43,736
+And what's so hilarious about it is
+
+117
+00:06:43,820 --> 00:06:46,823
+typeface designers who quietly suffered
+with this all these years,
+
+118
+00:06:46,906 --> 00:06:49,117
+and to find that actual other people
+do as well is this...
+
+119
+00:06:49,617 --> 00:06:52,537
+kind of hilarious and great moment
+of kinship with the world.
+
+120
+00:06:52,620 --> 00:06:54,497
+Do you remember the <i>Avatar </i>logo?
+
+121
+00:06:54,872 --> 00:06:58,418
+I... Yeah. It was tribal yet futuristic.
+
+122
+00:06:58,501 --> 00:06:59,877
+Papyrus!
+
+123
+00:07:02,338 --> 00:07:03,172
+Good morning.
+
+124
+00:07:03,256 --> 00:07:06,759
+[Jonathan]
+<i>Hoefler and Company is a 16-person studio.</i>
+
+125
+00:07:07,009 --> 00:07:10,388
+<i>We are best known to the world
+through our website,</i>
+
+126
+00:07:10,471 --> 00:07:11,848
+<i>typography.com.</i>
+
+127
+00:07:11,931 --> 00:07:14,684
+<i>That is really the repository
+for all the things we do here.</i>
+
+128
+00:07:15,059 --> 00:07:17,728
+<i>We have more than 1,500 styles.</i>
+
+129
+00:07:19,188 --> 00:07:21,524
+<i>We may have the goal of releasing
+three typefaces this year,</i>
+
+130
+00:07:21,607 --> 00:07:24,026
+<i>but we're probably working
+on nine or ten right now.</i>
+
+131
+00:07:24,110 --> 00:07:24,944
+Good morning.
+
+132
+00:07:40,835 --> 00:07:43,838
+[Jonathan] <i>One of the hardest things
+about a typeface is finding a name for it.</i>
+
+133
+00:07:43,921 --> 00:07:45,298
+<i>We've settled on Decimal.</i>
+
+134
+00:07:45,631 --> 00:07:48,342
+<i>Decimal watches
+are watches that the number of seconds</i>
+
+135
+00:07:48,426 --> 00:07:51,137
+<i>is divided not into 60,
+but into one-hundredths.</i>
+
+136
+00:07:51,220 --> 00:07:54,307
+<i>The 12-hour, 60-minute,
+60-seconds system,</i>
+
+137
+00:07:54,390 --> 00:07:56,267
+<i>and the scientific system of base ten.</i>
+
+138
+00:07:56,934 --> 00:07:58,686
+<i>Something about this
+is very intriguing to me,</i>
+
+139
+00:07:58,769 --> 00:08:01,606
+<i>these ideas of two different systems
+crashing together.</i>
+
+140
+00:08:02,064 --> 00:08:03,858
+<i>So, I think Decimal's it.</i>
+
+141
+00:08:06,986 --> 00:08:08,362
+Oh, there's a V.
+
+142
+00:08:08,863 --> 00:08:12,408
+And this is interesting. It's got the E
+with a crossbar that's dead center.
+
+143
+00:08:12,492 --> 00:08:14,118
+Then on the same watch,
+
+144
+00:08:14,660 --> 00:08:16,829
+it's got an E that is above center.
+
+145
+00:08:17,788 --> 00:08:18,956
+Pi symbol...
+
+146
+00:08:19,415 --> 00:08:21,167
+I've never seen on a watch before.
+
+147
+00:08:23,294 --> 00:08:27,089
+There's a great kind of signature moment
+in almost every old watch dial
+
+148
+00:08:27,173 --> 00:08:28,591
+in the design of the number four.
+
+149
+00:08:28,674 --> 00:08:30,843
+It's got that wonderful flat top to it.
+
+150
+00:08:31,677 --> 00:08:35,223
+This is a detail not seen
+in, really, any typeface I can think of.
+
+151
+00:08:36,766 --> 00:08:38,142
+Here's another watch.
+
+152
+00:08:38,226 --> 00:08:40,353
+A different manufacturer,
+different period,
+
+153
+00:08:40,853 --> 00:08:42,146
+but that same detail.
+
+154
+00:08:43,314 --> 00:08:47,985
+I started wondering why this one character
+has been kind of fetishized in this way.
+
+155
+00:08:48,528 --> 00:08:52,031
+The best I can guess
+is that in working at small sizes,
+
+156
+00:08:52,156 --> 00:08:56,035
+a designer does everything to get
+as much air into a character as possible.
+
+157
+00:08:57,411 --> 00:08:59,830
+So, maybe this can be
+the theme of the typeface,
+
+158
+00:08:59,914 --> 00:09:01,624
+these opened up, squared areas.
+
+159
+00:09:02,375 --> 00:09:05,753
+I'll probably not find an entire alphabet,
+but it's far deeper than that.
+
+160
+00:09:05,836 --> 00:09:08,339
+It is what the punctuation looks like,
+
+161
+00:09:08,422 --> 00:09:11,467
+what the lowercase might look like,
+what an italic might look like.
+
+162
+00:09:11,551 --> 00:09:13,094
+I've never seen italics in watches.
+
+163
+00:09:13,511 --> 00:09:15,471
+Can you abstract from this a larger theme
+
+164
+00:09:15,555 --> 00:09:17,807
+about what a whole typeface
+might look like?
+
+165
+00:09:18,474 --> 00:09:19,350
+It's a gamble.
+
+166
+00:09:20,017 --> 00:09:22,270
+This is my first time
+looking at watchmakers' letters
+
+167
+00:09:22,353 --> 00:09:25,856
+and it's kind of a scary empty canvas
+when it begins
+
+168
+00:09:26,065 --> 00:09:28,734
+without really any assurance
+that it's going to work.
+
+169
+00:09:34,198 --> 00:09:36,367
+Humor is such a great way into design.
+
+170
+00:09:36,450 --> 00:09:38,452
+You know the fold-in, right?
+In the back cover.
+
+171
+00:09:38,536 --> 00:09:40,162
+-You've seen how this works?
+-[man] Yes.
+
+172
+00:09:40,246 --> 00:09:44,166
+The question is, "What remarkable trick
+did you learn from this magazine?"
+
+173
+00:09:46,085 --> 00:09:47,420
+[chuckles]
+
+174
+00:09:48,588 --> 00:09:49,922
+The remarkable trick is...
+
+175
+00:09:50,590 --> 00:09:53,092
+making 90 cents disappear down the drain.
+
+176
+00:09:53,175 --> 00:09:54,927
+-[laughter]
+-So stupid.
+
+177
+00:09:56,721 --> 00:09:58,431
+I loved <i>Mad </i>magazine growing up.
+
+178
+00:09:59,348 --> 00:10:01,350
+I've always been a lover of satire.
+
+179
+00:10:01,767 --> 00:10:04,562
+Not just because it was funny,
+but because it used this whole...
+
+180
+00:10:04,645 --> 00:10:07,273
+sophisticated visual language
+to tell the joke.
+
+181
+00:10:08,274 --> 00:10:11,402
+The cover about video games
+with the little video game typeface.
+
+182
+00:10:11,485 --> 00:10:15,114
+The wacky book covers we'd like to see.
+
+183
+00:10:15,197 --> 00:10:16,991
+That was probably
+my introduction to the idea
+
+184
+00:10:17,074 --> 00:10:18,784
+that type has a cultural dimension to it.
+
+185
+00:10:19,410 --> 00:10:21,704
+This was probably the first issue
+of <i>Spy </i>I ever saw.
+
+186
+00:10:21,912 --> 00:10:23,164
+Uh, the Kennedy-bashing issue.
+
+187
+00:10:23,664 --> 00:10:28,044
+<i>Spy </i>was the first magazine I'd ever seen
+where I'd become aware of the design.
+
+188
+00:10:28,377 --> 00:10:31,339
+Alex Isley was doing
+these extraordinary things,
+
+189
+00:10:31,422 --> 00:10:34,675
+using unusual scales,
+making them feel tongue in cheek.
+
+190
+00:10:34,967 --> 00:10:37,887
+It felt like the perfect marriage
+of art editorial to me.
+
+191
+00:10:38,262 --> 00:10:39,847
+I just love things like this.
+
+192
+00:10:39,930 --> 00:10:42,767
+The story is told with an X-Acto knife
+cutting through one line
+
+193
+00:10:42,850 --> 00:10:44,435
+of Alternate Gothic that's letter spaced.
+
+194
+00:10:44,518 --> 00:10:45,478
+That's incredible to me.
+
+195
+00:10:46,479 --> 00:10:49,148
+That was the turning point.
+That was the way out of
+
+196
+00:10:49,231 --> 00:10:52,568
+type as a part of satire into type
+as a part of communication.
+
+197
+00:10:53,569 --> 00:10:56,030
+Oh, I can't believe Donald Trump's
+gonna be in this episode.
+
+198
+00:10:56,113 --> 00:10:57,114
+[laughs]
+
+199
+00:10:58,866 --> 00:10:59,992
+<i>I never went to college.</i>
+
+200
+00:11:00,076 --> 00:11:02,578
+<i>Typeface design wasn't something
+you could study back then.</i>
+
+201
+00:11:03,496 --> 00:11:05,206
+<i>In 1989,</i>
+
+202
+00:11:05,289 --> 00:11:08,334
+<i>I made a little self-promotion piece
+as a mailer.</i>
+
+203
+00:11:08,417 --> 00:11:10,628
+<i>I sent this out
+with the very non-specific goal</i>
+
+204
+00:11:10,711 --> 00:11:13,255
+<i>of getting some kind of work
+involving typography.</i>
+
+205
+00:11:13,339 --> 00:11:14,423
+<i>But the first call I got</i>
+
+206
+00:11:14,507 --> 00:11:16,926
+<i>was from the art director
+of </i>Sports Illustrated, <i>Steve Hoffman,</i>
+
+207
+00:11:17,009 --> 00:11:17,927
+<i>and he asked...</i>
+
+208
+00:11:20,012 --> 00:11:23,849
+<i>And for me, it meant the chance to design
+a typeface for this prestigious magazine.</i>
+
+209
+00:11:29,438 --> 00:11:31,941
+This was the first thing I did for them.
+Just these headlines.
+
+210
+00:11:32,024 --> 00:11:34,068
+This little composition right here.
+
+211
+00:11:34,151 --> 00:11:37,405
+And we decided we would do
+a full family of typefaces
+
+212
+00:11:37,488 --> 00:11:40,157
+that would work in smaller sizes,
+each with its own width.
+
+213
+00:11:40,241 --> 00:11:41,951
+That was a typeface called Knockout.
+
+214
+00:11:42,034 --> 00:11:45,121
+Art directors could match
+the length of a headline
+
+215
+00:11:45,204 --> 00:11:47,957
+to the measure of the space
+and always have a typeface that fit.
+
+216
+00:11:48,582 --> 00:11:51,460
+And most crucially
+for a type nerd like me
+
+217
+00:11:51,544 --> 00:11:55,214
+is you begin to see
+truly tiny things like this.
+
+218
+00:11:56,716 --> 00:12:00,886
+What I love about a lot
+of Jonathan's catalog of type
+
+219
+00:12:00,970 --> 00:12:03,639
+is that you're always coming from
+
+220
+00:12:03,723 --> 00:12:07,768
+a really beautiful,
+brilliantly executed starting place.
+
+221
+00:12:09,937 --> 00:12:13,524
+In the early '90s, I was at <i>Rolling Stone,</i>
+worked for Fred Woodward.
+
+222
+00:12:13,607 --> 00:12:15,401
+We were at sort of the beginning
+
+223
+00:12:15,484 --> 00:12:18,195
+of doing cool stuff
+that was getting some acclaim.
+
+224
+00:12:18,654 --> 00:12:21,824
+And I was invited up
+to the Hoefler Type Foundry.
+
+225
+00:12:22,158 --> 00:12:23,909
+So, we go upstairs and...
+
+226
+00:12:24,326 --> 00:12:27,621
+it's, like, "This is...
+This is his apartment."
+
+227
+00:12:28,205 --> 00:12:32,710
+And steps going up to a loft bed
+with type posters on the wall,
+
+228
+00:12:32,793 --> 00:12:37,256
+and he had, you know, he had a Mac,
+and very few of us had a Mac then, and...
+
+229
+00:12:37,339 --> 00:12:39,425
+And again, I'm like...
+
+230
+00:12:40,634 --> 00:12:42,011
+"This is the Hoefler Type Foundry?
+
+231
+00:12:42,094 --> 00:12:44,096
+This is crazy!
+This is Jonathan's bedroom!"
+
+232
+00:12:46,557 --> 00:12:49,977
+[Jonathan] The first typeface I designed
+for <i>Rolling Stone </i>was called Ziggurat.
+
+233
+00:12:50,144 --> 00:12:53,564
+I was working with Gail
+at a time when <i>Rolling Stone </i>were,
+
+234
+00:12:53,647 --> 00:12:56,609
+"We need to lose resources in the art
+department because of the recession."
+
+235
+00:12:57,693 --> 00:13:01,280
+Gail and I hit upon the idea
+of taking this typeface and...
+
+236
+00:13:01,655 --> 00:13:03,741
+essentially retooling it
+in different styles.
+
+237
+00:13:04,533 --> 00:13:07,161
+The collection of typefaces,
+which we called the Proteus Project,
+
+238
+00:13:07,244 --> 00:13:08,537
+and there are four of them.
+
+239
+00:13:09,038 --> 00:13:12,875
+So, switching from one typeface
+to the next, from one cover to the next,
+
+240
+00:13:13,209 --> 00:13:15,044
+the idea is these are all interchangeable.
+
+241
+00:13:15,127 --> 00:13:17,004
+You can take one out, substitute the next
+
+242
+00:13:17,087 --> 00:13:19,590
+and nothing really reflows
+in your page layout.
+
+243
+00:13:20,216 --> 00:13:23,344
+[Gail] They were so cool
+and so easy to work with.
+
+244
+00:13:23,761 --> 00:13:27,056
+They represented a whole era
+of the magazine.
+
+245
+00:13:27,306 --> 00:13:29,308
+He had this stuff down, as a kid,
+
+246
+00:13:29,391 --> 00:13:31,685
+that we were just beginning to figure out.
+
+247
+00:13:32,228 --> 00:13:35,356
+When you think about magazine design
+in the last 20 years,
+
+248
+00:13:35,898 --> 00:13:38,359
+such a huge part of the way
+
+249
+00:13:38,442 --> 00:13:42,112
+American magazines are designed
+are Jonathan's faces.
+
+250
+00:13:42,404 --> 00:13:43,405
+He's everywhere.
+
+251
+00:13:43,489 --> 00:13:46,116
+Come on, he was smart enough
+to buy typography.com.
+
+252
+00:13:46,200 --> 00:13:48,828
+So, you know, that's Jonathan.
+
+253
+00:14:07,930 --> 00:14:10,766
+[Jonathan] One of my favorite details
+in a typeface are these things,
+
+254
+00:14:10,850 --> 00:14:13,352
+they're called manicules
+or fists or indices,
+
+255
+00:14:13,435 --> 00:14:15,062
+hands pointing in different directions.
+
+256
+00:14:15,312 --> 00:14:19,233
+Manicules are just a way of attracting
+the eye to a particular detail on a page.
+
+257
+00:14:19,316 --> 00:14:21,443
+It's been in printing
+since the first books.
+
+258
+00:14:23,195 --> 00:14:25,114
+Something like this. That'll work.
+
+259
+00:14:26,365 --> 00:14:28,951
+-[man] Not bad.
+-Yeah, it's a start. We'll see.
+
+260
+00:14:32,413 --> 00:14:35,666
+There's really no substitute
+for working with primary sources.
+
+261
+00:14:37,293 --> 00:14:38,836
+These are type specimen books.
+
+262
+00:14:38,919 --> 00:14:42,923
+Type specimen books are catalogs
+made by type founders.
+
+263
+00:14:43,007 --> 00:14:46,051
+These are things produced
+just to advertise the fonts.
+
+264
+00:14:47,177 --> 00:14:49,346
+While this book is from the 1870s,
+
+265
+00:14:49,430 --> 00:14:52,725
+there are typefaces in here
+that go back 30, 40, 50 years.
+
+266
+00:14:52,808 --> 00:14:55,311
+Styles that go back hundreds of years,
+in some cases.
+
+267
+00:14:55,394 --> 00:14:58,022
+And a lot of these things
+had been lost to time.
+
+268
+00:14:58,105 --> 00:15:02,067
+Uh, not one typeface on these pages
+is something you can buy today.
+
+269
+00:15:02,860 --> 00:15:05,446
+In many cases,
+it's specimen books like these
+
+270
+00:15:05,529 --> 00:15:08,949
+that are the only historical record
+of some of these typefaces.
+
+271
+00:15:11,327 --> 00:15:14,079
+In the early '90s,
+I came across this thing,
+
+272
+00:15:14,163 --> 00:15:15,748
+which I just fell in love with.
+
+273
+00:15:16,165 --> 00:15:19,960
+It's a form of Black Letter,
+which some people call Old English,
+
+274
+00:15:20,753 --> 00:15:21,754
+that looks like that.
+
+275
+00:15:23,756 --> 00:15:27,718
+Black Letter typefaces really fell
+into disuse in the 18th century.
+
+276
+00:15:27,801 --> 00:15:28,802
+It's alien.
+
+277
+00:15:29,261 --> 00:15:33,182
+People don't recognize this letter
+as an E anymore.
+
+278
+00:15:33,641 --> 00:15:36,143
+But in the early 19th century,
+
+279
+00:15:36,226 --> 00:15:39,396
+Black Letter comes back into being
+just because it's eccentric.
+
+280
+00:15:39,855 --> 00:15:42,524
+We think of this thing as being a fossil,
+
+281
+00:15:42,608 --> 00:15:45,611
+but it's very much alive
+in typography today.
+
+282
+00:15:45,694 --> 00:15:47,696
+And it's been co-opted in so many ways.
+
+283
+00:15:48,155 --> 00:15:50,908
+Heavy metal uses Black Letters everywhere.
+
+284
+00:15:50,991 --> 00:15:54,578
+But so does gangster rap.
+You'll find it in prison tattoos,
+
+285
+00:15:54,662 --> 00:15:56,288
+Catholic church, satanism.
+
+286
+00:15:56,372 --> 00:15:58,666
+And there's this
+sort of marvelous dualism,
+
+287
+00:15:58,749 --> 00:16:01,710
+this sort of set of binary oppositions
+where the typeface can be used.
+
+288
+00:16:02,294 --> 00:16:03,587
+So I began thinking,
+
+289
+00:16:03,671 --> 00:16:07,132
+“What might we do with this idea,
+but take it further?”
+
+290
+00:16:08,217 --> 00:16:11,804
+About 23 years ago,
+I started working on this typeface,
+
+291
+00:16:12,388 --> 00:16:14,264
+which we're now calling Parliament.
+
+292
+00:16:14,682 --> 00:16:16,600
+Embryonic, but, uh, a start.
+
+293
+00:16:17,101 --> 00:16:20,562
+I started thinking, "Could we do
+a set of manicules in this style?"
+
+294
+00:16:20,646 --> 00:16:22,815
+Spent a lot of time trying to figure out
+how these things
+
+295
+00:16:22,898 --> 00:16:25,317
+might evolve into calligraphic forms.
+
+296
+00:16:27,695 --> 00:16:31,031
+This is the final version
+of these, uh... these manicules.
+
+297
+00:16:37,454 --> 00:16:38,288
+Thank you.
+
+298
+00:16:40,749 --> 00:16:44,086
+<i>One thing about typeface design
+is this constant feeling</i>
+
+299
+00:16:44,169 --> 00:16:45,879
+<i>of not wanting to repeat yourself,</i>
+
+300
+00:16:45,963 --> 00:16:49,383
+<i>to try to try something new every time.</i>
+
+301
+00:16:49,800 --> 00:16:53,637
+<i>Challenges, in many ways,
+get more demanding as time goes on.</i>
+
+302
+00:16:54,179 --> 00:16:56,348
+<i>The more interesting, the more specific,</i>
+
+303
+00:16:56,432 --> 00:16:59,143
+<i>even the more esoteric
+a typeface you try to create,</i>
+
+304
+00:16:59,226 --> 00:17:01,895
+<i>the more you have to figure out
+from scratch each time. </i>
+
+305
+00:17:02,146 --> 00:17:03,230
+<i>It's a puzzle.</i>
+
+306
+00:17:12,573 --> 00:17:16,493
+About 20 years ago, I was commissioned
+by the designer Abbott Miller
+
+307
+00:17:16,577 --> 00:17:18,579
+to contribute a typeface
+
+308
+00:17:18,662 --> 00:17:21,206
+to the rebranding of the Guggenheim
+that he was doing.
+
+309
+00:17:21,707 --> 00:17:24,877
+We began with openness and roundness,
+given the rotunda.
+
+310
+00:17:25,127 --> 00:17:29,631
+The idea of making something feel
+a little bit more elevated and lofty.
+
+311
+00:17:30,257 --> 00:17:34,553
+It's always a challenge to try to relate
+architecture to typography.
+
+312
+00:17:35,554 --> 00:17:38,474
+An obvious point of inspiration
+was this lettering on the facade.
+
+313
+00:17:38,557 --> 00:17:40,768
+The nice thing that seemed to recommend it
+
+314
+00:17:40,851 --> 00:17:43,228
+for adaptation for a text face
+
+315
+00:17:43,562 --> 00:17:47,733
+was its stark geometry,
+which, in some cases, is perfect.
+
+316
+00:17:47,816 --> 00:17:51,028
+This letter M has a beauty to it
+that is marvelous.
+
+317
+00:17:51,737 --> 00:17:54,448
+But letters like E and H
+have this raised crossbar
+
+318
+00:17:54,531 --> 00:17:56,200
+that makes them overly stylized.
+
+319
+00:17:56,575 --> 00:17:59,870
+These are details that are
+overly distinctive, distracting.
+
+320
+00:18:00,037 --> 00:18:02,706
+Our hope was to take
+some of these qualities
+
+321
+00:18:02,790 --> 00:18:05,167
+and dial them back a little bit.
+
+322
+00:18:05,250 --> 00:18:08,587
+And push the typeface from being
+a decorative signage face
+
+323
+00:18:08,670 --> 00:18:11,465
+into a more conservative face
+for text and headlines.
+
+324
+00:18:12,800 --> 00:18:15,594
+Small details helped.
+Giving the typeface a small lowercase
+
+325
+00:18:15,719 --> 00:18:17,846
+made the capitals tower over it
+
+326
+00:18:17,930 --> 00:18:20,224
+and made the whole thing
+feel a little bit more grand.
+
+327
+00:18:20,933 --> 00:18:22,935
+Those in different moods
+
+328
+00:18:23,018 --> 00:18:26,522
+really capture a lot of the qualities
+of the physical space we're in.
+
+329
+00:18:28,857 --> 00:18:31,360
+When an institution like the Guggenheim
+adopt a typeface,
+
+330
+00:18:31,443 --> 00:18:33,195
+the typeface gets used everywhere,
+
+331
+00:18:33,278 --> 00:18:35,864
+not just in print publications
+and on the website,
+
+332
+00:18:35,948 --> 00:18:37,616
+but in places like store windows,
+
+333
+00:18:38,075 --> 00:18:39,326
+exhibition calendars,
+
+334
+00:18:39,785 --> 00:18:40,953
+facilities signage,
+
+335
+00:18:41,537 --> 00:18:42,663
+way-finding graphics,
+
+336
+00:18:43,163 --> 00:18:45,958
+floor plans, interactive applications...
+
+337
+00:18:46,500 --> 00:18:47,835
+and even the guest pass.
+
+338
+00:18:51,588 --> 00:18:52,756
+The test of that one for me
+
+339
+00:18:52,840 --> 00:18:55,759
+is looking overhead and seeing
+the lettering of the name of the museum,
+
+340
+00:18:55,843 --> 00:18:57,970
+but then seeing the actual lettering
+on the window.
+
+341
+00:18:58,053 --> 00:19:00,722
+If those things
+present the same kind of feeling,
+
+342
+00:19:00,806 --> 00:19:02,558
+then the typeface is a success.
+
+343
+00:19:06,812 --> 00:19:08,230
+When you design a new typeface,
+
+344
+00:19:08,313 --> 00:19:11,316
+the first two characters you draw
+are the capital H and the capital O.
+
+345
+00:19:11,775 --> 00:19:13,819
+The principal is that the H
+is a straight character
+
+346
+00:19:13,902 --> 00:19:15,696
+with vertical stems and straight sides.
+
+347
+00:19:15,779 --> 00:19:17,865
+The O is a round character
+with round sides.
+
+348
+00:19:17,948 --> 00:19:20,284
+And in theory, once you've drawn
+these two characters,
+
+349
+00:19:20,367 --> 00:19:23,412
+you've got a basic sense of the flavor
+of the typeface you're designing.
+
+350
+00:19:23,704 --> 00:19:26,248
+Unfortunately, it never seems to turn out
+that the H and the O
+
+351
+00:19:26,331 --> 00:19:29,001
+are the characters that designers
+first draw, because they're boring.
+
+352
+00:19:30,878 --> 00:19:32,963
+The drawings I've done up to this point
+
+353
+00:19:33,046 --> 00:19:36,425
+are essentially an inventory of things
+that are interesting ideas.
+
+354
+00:19:37,718 --> 00:19:40,721
+Here's that flat-top four,
+and some ideas about watches
+
+355
+00:19:40,804 --> 00:19:44,600
+that have the same flat-top detail
+in letters like A and V and W.
+
+356
+00:19:44,766 --> 00:19:46,977
+And by extension,
+what letters like K might do.
+
+357
+00:19:47,811 --> 00:19:50,272
+It's essential at this point
+to begin working digitally,
+
+358
+00:19:50,355 --> 00:19:53,817
+where you're working with the same kinds
+of outlines, character to character.
+
+359
+00:19:56,320 --> 00:19:58,655
+<i>I came to design through computers.</i>
+
+360
+00:19:58,739 --> 00:20:00,699
+<i>I was a computer kid growing up.</i>
+
+361
+00:20:00,949 --> 00:20:03,577
+<i>I was into video games
+when they were much simpler things</i>
+
+362
+00:20:03,827 --> 00:20:05,162
+<i>and you could make one.</i>
+
+363
+00:20:05,245 --> 00:20:07,623
+<i>As part of the graphics for it,
+I'd do letters.</i>
+
+364
+00:20:07,706 --> 00:20:09,958
+<i>Every character
+had to be eight by eight pixels.</i>
+
+365
+00:20:10,375 --> 00:20:13,587
+<i>And the question is, how do you give
+your </i>Dungeons and Dragons<i>-style game</i>
+
+366
+00:20:13,670 --> 00:20:16,215
+<i>and your space game different typography?</i>
+
+367
+00:20:16,632 --> 00:20:18,050
+<i>That's tough to figure out.</i>
+
+368
+00:20:21,136 --> 00:20:24,723
+I'm at the point with Decimal where
+I've drawn a couple of key characters
+
+369
+00:20:24,806 --> 00:20:28,185
+that I feel are very watch-like
+in a nice way,
+
+370
+00:20:28,268 --> 00:20:30,270
+a few more that are
+a little bit more neutral
+
+371
+00:20:30,354 --> 00:20:33,398
+to help me figure out what the tenor
+of the design is going to be,
+
+372
+00:20:33,732 --> 00:20:35,692
+and then some really challenging ones.
+
+373
+00:20:36,318 --> 00:20:39,780
+There's a form of S
+that you see in watchmaking.
+
+374
+00:20:39,863 --> 00:20:41,698
+It has these gestures
+
+375
+00:20:41,907 --> 00:20:44,368
+that point very aggressively outward.
+
+376
+00:20:44,618 --> 00:20:46,161
+But I've also found this J
+
+377
+00:20:46,245 --> 00:20:49,248
+where the stroke at the bottom
+points up into the character.
+
+378
+00:20:49,623 --> 00:20:51,875
+A lot of what you're doing
+in typeface design is
+
+379
+00:20:51,959 --> 00:20:54,878
+finding these eccentric things
+and trying to figure out
+
+380
+00:20:54,962 --> 00:20:57,047
+what center you can pull them toward.
+
+381
+00:20:57,130 --> 00:21:00,342
+Does the S want to become more J-like,
+or the J more S-like?
+
+382
+00:21:00,425 --> 00:21:01,677
+Or is it okay as it is?
+
+383
+00:21:02,469 --> 00:21:04,012
+Even this S and A that I've drawn,
+
+384
+00:21:04,096 --> 00:21:07,266
+the worst part of this for me right now
+is I don't like either one of them.
+
+385
+00:21:07,349 --> 00:21:09,977
+I feel like as a designer I wouldn't use
+either of these typefaces.
+
+386
+00:21:10,394 --> 00:21:12,980
+So, where in this continuum...
+
+387
+00:21:13,855 --> 00:21:15,565
+is the idea of Decimal?
+
+388
+00:21:15,649 --> 00:21:17,025
+What feels like a watch?
+
+389
+00:21:17,943 --> 00:21:20,279
+All typefaces
+are full of these inconsistencies
+
+390
+00:21:20,362 --> 00:21:23,365
+that are impossible to justify
+through anything except optics.
+
+391
+00:21:23,448 --> 00:21:26,034
+And that really is a lot of where the art
+comes into play.
+
+392
+00:21:28,537 --> 00:21:32,457
+<i>Type design is not about drawing letters.
+It's about drawing systems of things.</i>
+
+393
+00:21:32,582 --> 00:21:35,419
+<i>There are the letters in the alphabet,
+other cases,</i>
+
+394
+00:21:35,502 --> 00:21:37,921
+<i>caps, lowercase, small caps, swashes.</i>
+
+395
+00:21:38,005 --> 00:21:40,340
+<i>There's an italic, there's a bold,
+there's a bold italic.</i>
+
+396
+00:21:40,424 --> 00:21:42,050
+<i>All of these have to be created.</i>
+
+397
+00:21:42,134 --> 00:21:45,637
+<i>Our design team begins with Sara Soskolne,
+who is our senior designer.</i>
+
+398
+00:21:45,721 --> 00:21:48,765
+<i>Jordan Bell is a designer
+with a strong interest in lettering.</i>
+
+399
+00:21:48,849 --> 00:21:50,851
+<i>Troy Leinster comes from graphic design,</i>
+
+400
+00:21:51,143 --> 00:21:54,855
+<i>and Colin Ford is a typeface designer
+and Python programmer. </i>
+
+401
+00:21:56,148 --> 00:21:59,609
+These are just different things
+from different watches.
+
+402
+00:21:59,735 --> 00:22:03,363
+That's a concordance of all the letters
+and numbers I found.
+
+403
+00:22:03,864 --> 00:22:06,408
+-I like all the little... little serifs.
+-[Sara] Awesome.
+
+404
+00:22:06,950 --> 00:22:08,660
+Well, that's gonna be
+kind of a question,
+
+405
+00:22:08,744 --> 00:22:10,370
+which is,
+Is this a serif or a sans-serif?
+
+406
+00:22:10,454 --> 00:22:12,748
+And I've got my... my heart
+on it being a sans-serif.
+
+407
+00:22:12,831 --> 00:22:14,082
+-[Jordan] Yeah.
+-Check that out.
+
+408
+00:22:14,624 --> 00:22:17,461
+-Yeah.
+-[Jonathan] I think those are fantastic.
+
+409
+00:22:17,919 --> 00:22:20,464
+-Jonathan, there's our lowercase.
+-Yeah. Let's just do that.
+
+410
+00:22:20,547 --> 00:22:22,299
+-[Jonathan] There you go.
+-[laughter]
+
+411
+00:22:22,591 --> 00:22:24,593
+[Jonathan]
+<i>When I begin working with the designers,</i>
+
+412
+00:22:24,676 --> 00:22:27,679
+<i>they begin asking questions about
+where the design is going,</i>
+
+413
+00:22:27,763 --> 00:22:29,890
+<i>what motivates certain decisions.</i>
+
+414
+00:22:30,015 --> 00:22:33,060
+<i>And that makes me realize that a lot
+of the things I've been thinking about</i>
+
+415
+00:22:33,143 --> 00:22:35,228
+<i>really haven't been articulated
+in the right way yet.</i>
+
+416
+00:22:35,645 --> 00:22:38,565
+I think one of the key questions right now
+is what the curves look like.
+
+417
+00:22:39,191 --> 00:22:42,736
+I was about to ask what you're thinking
+about the relationship between those two.
+
+418
+00:22:42,819 --> 00:22:45,280
+-I think we need to pick a direction.
+-Yeah.
+
+419
+00:22:45,739 --> 00:22:47,324
+[Sara] I guess it's also a question of...
+
+420
+00:22:47,407 --> 00:22:50,202
+[Jonathan] <i>There is a lot of chaos
+in the early days of a typeface</i>
+
+421
+00:22:50,285 --> 00:22:53,330
+<i>in figuring out what's the signal
+and what's the noise.</i>
+
+422
+00:22:53,955 --> 00:22:57,167
+<i>But I do find that working with a team
+is the best way to resolve that.</i>
+
+423
+00:22:57,292 --> 00:23:00,545
+Any last words
+before we jump off the cliff?
+
+424
+00:23:00,921 --> 00:23:02,047
+[laughter]
+
+425
+00:23:08,845 --> 00:23:14,226
+[Jordan] <i>It's difficult to find examples,
+historically, of italics on watch faces.</i>
+
+426
+00:23:14,851 --> 00:23:17,938
+<i>Whenever I initially skew the Roman form,</i>
+
+427
+00:23:18,188 --> 00:23:19,898
+<i>it creates this distortion</i>
+
+428
+00:23:19,981 --> 00:23:23,568
+<i>and pulls a lot of weight into
+this bottom left-hand quadrant</i>
+
+429
+00:23:23,652 --> 00:23:25,904
+<i>and, uh, pinches up here.</i>
+
+430
+00:23:25,987 --> 00:23:28,031
+<i>These terminals, they're very uneven.</i>
+
+431
+00:23:28,115 --> 00:23:30,242
+<i>It can be tedious, but it's a nice puzzle.</i>
+
+432
+00:23:31,618 --> 00:23:35,831
+[Colin] <i>Ultra is heavier than bold.
+It's as black as you can get.</i>
+
+433
+00:23:36,998 --> 00:23:39,584
+<i>The urge is to add
+a lot of weight everywhere, </i>
+
+434
+00:23:39,668 --> 00:23:42,295
+<i>but you need to pick and choose
+where that weight goes. </i>
+
+435
+00:23:43,880 --> 00:23:48,135
+[Troy] I'll be trying to articulate
+what the thin version will look like,
+
+436
+00:23:48,260 --> 00:23:51,221
+because there's not much weight there
+to hide detail.
+
+437
+00:23:51,304 --> 00:23:54,558
+I'm trying to keep
+the same proportion between
+
+438
+00:23:54,641 --> 00:23:56,351
+the bold and the thin.
+
+439
+00:23:56,435 --> 00:23:58,603
+It's a bit of, uh, trial and error.
+
+440
+00:24:00,313 --> 00:24:03,358
+[Sara] <i>Working with Jonathan is awesome.
+He's very, very collaborative.</i>
+
+441
+00:24:03,650 --> 00:24:07,070
+<i>He'll make a prototype
+and give it to other people to run with,</i>
+
+442
+00:24:07,154 --> 00:24:11,700
+<i>and be totally unprecious about
+other people's role in that design.</i>
+
+443
+00:24:11,992 --> 00:24:15,454
+<i>He quickly handed me the medium weight
+to help with the prototype.</i>
+
+444
+00:24:16,163 --> 00:24:19,416
+I find that you cannot look
+at the shapes that you're making
+
+445
+00:24:19,499 --> 00:24:22,794
+without also being very careful
+about how you space them.
+
+446
+00:24:22,878 --> 00:24:23,920
+It's a huge thing.
+
+447
+00:24:25,505 --> 00:24:27,132
+<i>♪ These are letters ♪</i>
+
+448
+00:24:30,760 --> 00:24:32,804
+[Jonathan] <i>Most of the shapes
+that type designers draw</i>
+
+449
+00:24:32,888 --> 00:24:34,639
+<i>are the ones that never get seen.</i>
+
+450
+00:24:35,223 --> 00:24:37,476
+<i>These complex forms are carefully crafted</i>
+
+451
+00:24:37,559 --> 00:24:39,853
+<i>in order to establish the fit
+of a typeface.</i>
+
+452
+00:24:39,936 --> 00:24:41,938
+<i>These aren't the shapes
+of letter forms themselves. </i>
+
+453
+00:24:42,022 --> 00:24:44,107
+<i>They're the invisible spaces between them.</i>
+
+454
+00:24:44,774 --> 00:24:47,027
+<i>A well-fitted design
+has a consistent rhythm</i>
+
+455
+00:24:47,110 --> 00:24:49,488
+<i>and strikes a perfect balance
+between the letters we see</i>
+
+456
+00:24:49,571 --> 00:24:51,156
+<i>and the void that contains them.</i>
+
+457
+00:24:52,449 --> 00:24:55,368
+<i>Even the most well-fitted letters
+need some extra helping hands.</i>
+
+458
+00:24:55,869 --> 00:24:57,287
+<i>After the alphabet is drawn,</i>
+
+459
+00:24:57,370 --> 00:24:59,998
+<i>a typeface designer will bring
+additional techniques to bear</i>
+
+460
+00:25:00,081 --> 00:25:01,625
+<i>to ensure that letters can lock together</i>
+
+461
+00:25:01,708 --> 00:25:04,085
+<i>into words and paragraphs
+with an even texture. </i>
+
+462
+00:25:05,754 --> 00:25:08,715
+<i>The loose spacing of this H and O
+can be fixed through kerning,</i>
+
+463
+00:25:08,798 --> 00:25:12,052
+<i>the individual adjustment of space
+between a specific pair of letters.</i>
+
+464
+00:25:12,886 --> 00:25:14,596
+<i>But kerning is just the beginning.</i>
+
+465
+00:25:14,679 --> 00:25:16,848
+<i>To improve the rhythm of this F and L,</i>
+
+466
+00:25:16,932 --> 00:25:20,685
+<i>rather than kern the letters together,
+a type designer can provide a ligature,</i>
+
+467
+00:25:20,769 --> 00:25:23,188
+<i>a specially drawn combination
+of two or more letters</i>
+
+468
+00:25:23,271 --> 00:25:26,149
+<i>that's automatically substituted
+whenever it improves readability. </i>
+
+469
+00:25:32,531 --> 00:25:34,533
+<i>It's often the case in a typeface</i>
+
+470
+00:25:34,616 --> 00:25:36,618
+<i>that you find yourself</i>
+
+471
+00:25:36,701 --> 00:25:39,913
+<i>forced to follow tributaries
+in places you wouldn't expect. </i>
+
+472
+00:25:46,336 --> 00:25:49,506
+<i>A reason to be in a graveyard
+like this one</i>
+
+473
+00:25:49,589 --> 00:25:53,635
+<i>is to see how the mannerisms of
+Black Letter typefaces changed over time.</i>
+
+474
+00:25:57,430 --> 00:25:59,683
+<i>One of the challenges
+with Parliament is...</i>
+
+475
+00:25:59,933 --> 00:26:02,060
+<i>how do you modernize
+this truly ancient thing</i>
+
+476
+00:26:02,143 --> 00:26:05,730
+<i>in a way that's actually useful,
+but also feels old?</i>
+
+477
+00:26:06,982 --> 00:26:08,149
+[shutter clicking]
+
+478
+00:26:09,901 --> 00:26:11,736
+<i>With typefaces that are rooted in history,</i>
+
+479
+00:26:11,820 --> 00:26:14,072
+<i>I always want to go beyond
+what's been done. </i>
+
+480
+00:26:14,531 --> 00:26:17,242
+<i>The idea of finding some attractive fossil</i>
+
+481
+00:26:17,325 --> 00:26:19,953
+<i>and just reproducing it
+doesn't feel very interesting. </i>
+
+482
+00:26:20,537 --> 00:26:22,038
+<i>Doesn't feel very original, either. </i>
+
+483
+00:26:23,331 --> 00:26:24,165
+This is great.
+
+484
+00:26:24,249 --> 00:26:27,085
+It's the same Black Letter style
+on every surface of this thing.
+
+485
+00:26:27,961 --> 00:26:31,089
+Incredibly hard to read there,
+a little bit easier here.
+
+486
+00:26:34,342 --> 00:26:36,303
+But when the light catches it
+at the end,
+
+487
+00:26:36,761 --> 00:26:38,430
+ah, this is just spectacular.
+
+488
+00:26:40,432 --> 00:26:43,643
+The legibility of a lot
+of these characters comes from the way
+
+489
+00:26:43,727 --> 00:26:46,021
+the sunlight strikes these letter forms.
+
+490
+00:26:50,817 --> 00:26:53,987
+A lot of the typefaces we've been
+looking at for the Parliament project
+
+491
+00:26:54,237 --> 00:26:58,992
+are Black Letter typefaces
+with these raised highlights.
+
+492
+00:26:59,409 --> 00:27:02,412
+It's very fun to have an actual
+three-dimensional model to work with
+
+493
+00:27:02,495 --> 00:27:06,583
+and see how you can change
+the overall construction of the character.
+
+494
+00:27:07,000 --> 00:27:09,502
+And I'm curious to see,
+when we get to working on this digitally,
+
+495
+00:27:09,586 --> 00:27:12,505
+how we can, uh...  how we can achieve
+the same kind of effect.
+
+496
+00:27:13,757 --> 00:27:18,470
+The effort involved in drawing
+contours within contours within contours
+
+497
+00:27:18,637 --> 00:27:20,930
+is impossibly complicated.
+
+498
+00:27:21,014 --> 00:27:24,059
+So, something we've been doing
+is developing a tool to help us do this
+
+499
+00:27:25,310 --> 00:27:27,354
+which, for the first time,
+allows designers to control
+
+500
+00:27:27,437 --> 00:27:29,606
+more than one contour at the same time.
+
+501
+00:27:30,148 --> 00:27:32,400
+Working with this tool in this way,
+that'll enable us
+
+502
+00:27:32,484 --> 00:27:35,820
+to not just make one or two varieties
+of an element,
+
+503
+00:27:36,404 --> 00:27:37,447
+but up to five.
+
+504
+00:27:40,116 --> 00:27:43,036
+Programming has always been
+an important part of what we do.
+
+505
+00:27:43,870 --> 00:27:46,873
+In 1991, I got a commission from Apple.
+
+506
+00:27:47,207 --> 00:27:50,919
+They were developing new technology
+to imbue a font with intelligence,
+
+507
+00:27:51,002 --> 00:27:54,714
+to know how to insert special characters
+in certain circumstances.
+
+508
+00:27:55,590 --> 00:27:58,301
+I had been designing a typeface myself
+called Hoefler Text.
+
+509
+00:27:58,385 --> 00:28:01,763
+And I had been giving this typeface
+a lot of automated features
+
+510
+00:28:01,846 --> 00:28:04,140
+like lots of ligatures
+and swashes and things.
+
+511
+00:28:04,224 --> 00:28:07,477
+And Apple licensed it
+for inclusion on the Macintosh.
+
+512
+00:28:07,560 --> 00:28:11,231
+And subsequently on every iPhone
+and iPad ever made.
+
+513
+00:28:14,442 --> 00:28:17,862
+Today, the typefaces that we create
+need to be designed
+
+514
+00:28:17,946 --> 00:28:21,866
+in often distinctively different ways
+to succeed in different places.
+
+515
+00:28:21,950 --> 00:28:24,411
+A typeface designed for screens
+
+516
+00:28:24,494 --> 00:28:27,831
+needs to be imagined differently
+with applications in mind,
+
+517
+00:28:28,206 --> 00:28:29,999
+imagining how it would work
+on a smartphone,
+
+518
+00:28:30,083 --> 00:28:31,626
+how it would work on a watch.
+
+519
+00:28:32,377 --> 00:28:34,879
+There can be the typeface
+originally designed for print
+
+520
+00:28:34,963 --> 00:28:37,257
+that is revisited with screens in mind.
+
+521
+00:28:37,340 --> 00:28:39,884
+They'll do things like
+change proportions of letter forms,
+
+522
+00:28:39,968 --> 00:28:43,805
+take gestures that are prone to congestion
+at small sizes and open them up.
+
+523
+00:28:43,888 --> 00:28:46,099
+They'll change the spacing of a typeface.
+
+524
+00:28:46,599 --> 00:28:50,228
+I think, as with all technologies,
+it's given rise to new solutions,
+
+525
+00:28:50,311 --> 00:28:54,190
+but also opportunities
+to do more sophisticated things.
+
+526
+00:28:58,695 --> 00:29:00,780
+<i>We've been working on Decimal
+for a while now,</i>
+
+527
+00:29:00,864 --> 00:29:04,200
+<i>and I think we're at a fork in the road. </i>
+
+528
+00:29:05,410 --> 00:29:07,662
+-How's it going? Oh, good.
+-Pretty good.
+
+529
+00:29:07,746 --> 00:29:09,622
+[Jonathan] <i>There are
+two different ideas going on</i>
+
+530
+00:29:09,706 --> 00:29:11,666
+<i>in the lettering on watches
+we're looking at.</i>
+
+531
+00:29:11,875 --> 00:29:14,502
+<i>That's something we've been working on
+in the last couple of months. </i>
+
+532
+00:29:15,336 --> 00:29:16,379
+None of these feel right.
+
+533
+00:29:16,463 --> 00:29:18,506
+I mean, including what I gave you
+to begin with, so...
+
+534
+00:29:18,757 --> 00:29:19,632
+It's a real question.
+
+535
+00:29:19,716 --> 00:29:23,470
+This is where I always get fearful
+that this is actually a bum idea.
+
+536
+00:29:23,553 --> 00:29:25,180
+-[both laugh]
+-We should abandon ship.
+
+537
+00:29:26,139 --> 00:29:27,974
+<i>In a lot of the watch lettering we'd seen,</i>
+
+538
+00:29:28,057 --> 00:29:30,477
+<i>there are some curved letters
+that are very round. </i>
+
+539
+00:29:30,560 --> 00:29:32,395
+<i>An O is almost a perfect oval.</i>
+
+540
+00:29:32,562 --> 00:29:35,732
+<i>Some that are very square.
+Like the U, occasionally at the bottom.</i>
+
+541
+00:29:36,566 --> 00:29:39,319
+<i>There's a tension there
+between these things that's not desirable.</i>
+
+542
+00:29:39,402 --> 00:29:41,404
+<i>It's much more disruptive
+than I would like. </i>
+
+543
+00:29:41,821 --> 00:29:43,948
+Here's what it looks like in text.
+
+544
+00:29:44,032 --> 00:29:46,409
+[Jonathan] <i>The thought that a typeface
+might not work out,</i>
+
+545
+00:29:46,618 --> 00:29:48,828
+<i>there's definitely a cost of failure
+attached to that.</i>
+
+546
+00:29:48,912 --> 00:29:51,748
+Would either that or this work?
+I'm not sure.
+
+547
+00:29:51,915 --> 00:29:55,502
+<i>As somebody who has a team
+of type designers working for him,</i>
+
+548
+00:29:55,585 --> 00:29:57,629
+<i>it's a monetary cost as well.</i>
+
+549
+00:30:00,173 --> 00:30:03,176
+When you hit a snag,
+you've got a couple of options.
+
+550
+00:30:03,259 --> 00:30:05,345
+One is to just push through
+with brute strength
+
+551
+00:30:05,428 --> 00:30:07,180
+and hope that it all
+comes out in the wash.
+
+552
+00:30:07,388 --> 00:30:08,932
+That never really seems to work out.
+
+553
+00:30:09,015 --> 00:30:10,266
+The second is to abandon ship,
+
+554
+00:30:10,350 --> 00:30:13,269
+to just decide this idea
+is not working out and to put it down.
+
+555
+00:30:14,020 --> 00:30:16,105
+The third option is to just kind of...
+
+556
+00:30:16,898 --> 00:30:20,819
+squeeze the brief a little bit harder
+and see if you can add more things to it
+
+557
+00:30:20,902 --> 00:30:23,696
+that might make it more flexible,
+more interesting.
+
+558
+00:30:25,365 --> 00:30:29,828
+I wanted to look at some other examples
+of lettering from very small sizes.
+
+559
+00:30:29,911 --> 00:30:32,247
+Uh, watches, obviously,
+are painted in small sizes,
+
+560
+00:30:32,330 --> 00:30:33,915
+but here at the New York Public Library,
+
+561
+00:30:33,998 --> 00:30:36,626
+the map room has a collection
+of engraved lettering in small sizes
+
+562
+00:30:36,709 --> 00:30:38,419
+from centuries' worth of maps.
+
+563
+00:30:41,589 --> 00:30:44,717
+The question in a typeface is,
+"Will it be square or will it be round?
+
+564
+00:30:45,134 --> 00:30:46,803
+How do you resolve
+these different systems?"
+
+565
+00:30:50,265 --> 00:30:52,225
+-Thank you.
+-[man] The height of...
+
+566
+00:30:52,684 --> 00:30:54,227
+19th-century map production
+right there.
+
+567
+00:30:55,311 --> 00:30:56,938
+[Jonathan] This really is insane.
+
+568
+00:31:05,071 --> 00:31:06,281
+That is great.
+
+569
+00:31:15,415 --> 00:31:17,709
+I think this is gonna be
+our answer in Decimal.
+
+570
+00:31:20,128 --> 00:31:24,924
+Some really nice examples of rounded
+and then not so rounded lettering.
+
+571
+00:31:27,552 --> 00:31:28,845
+This is an interesting atlas
+
+572
+00:31:28,928 --> 00:31:32,974
+because you begin to see a different shape
+of curves working into this.
+
+573
+00:31:33,266 --> 00:31:35,351
+There's a great moment over here
+on the left side
+
+574
+00:31:35,435 --> 00:31:37,020
+where it says, "Great Barrington."
+
+575
+00:31:37,395 --> 00:31:39,397
+And the O has a squareness to it.
+
+576
+00:31:41,065 --> 00:31:44,444
+That's exciting to see here,
+but then equally fun
+
+577
+00:31:44,527 --> 00:31:46,070
+in subsequent pages,
+
+578
+00:31:46,946 --> 00:31:48,656
+there are a pair of streets
+in this one map,
+
+579
+00:31:48,740 --> 00:31:50,158
+Hubbard Street and Charles Street.
+
+580
+00:31:50,241 --> 00:31:53,453
+And Hubbard, the bottom of the U
+has this very shallow curve,
+
+581
+00:31:53,661 --> 00:31:56,331
+but then Charles Street below it
+has a very rounded C.
+
+582
+00:31:57,415 --> 00:31:59,334
+So, I feel like this designer
+is struggling
+
+583
+00:31:59,417 --> 00:32:02,045
+with a lot of these same ideas
+that can be resolved.
+
+584
+00:32:02,170 --> 00:32:04,213
+This is great. This is really...
+It's interesting.
+
+585
+00:32:04,923 --> 00:32:08,051
+<i>So many of its letters
+seem to be drawn to be compact.</i>
+
+586
+00:32:08,134 --> 00:32:10,219
+<i>They try to fill their space
+as much as possible,</i>
+
+587
+00:32:10,303 --> 00:32:12,388
+<i>like inflating a balloon inside a box.</i>
+
+588
+00:32:13,556 --> 00:32:17,143
+<i>We can create forms that are curved
+but squarish. </i>
+
+589
+00:32:17,727 --> 00:32:19,729
+<i>Now, we can redefine the brief
+for Decimal</i>
+
+590
+00:32:19,812 --> 00:32:21,814
+<i>in terms of compactness.</i>
+
+591
+00:32:22,774 --> 00:32:25,777
+<i>We've finally reached the point
+that there is a theme to this typeface.</i>
+
+592
+00:32:31,574 --> 00:32:33,326
+<i>♪ These are letters ♪</i>
+
+593
+00:32:35,912 --> 00:32:38,373
+<i>Our attempts to truly see
+two-dimensional forms</i>
+
+594
+00:32:38,456 --> 00:32:41,668
+<i>are bedeviled by optical illusions
+from our three-dimensional world.</i>
+
+595
+00:32:42,001 --> 00:32:44,003
+<i>Typeface designers compensate
+for these illusions</i>
+
+596
+00:32:44,087 --> 00:32:47,215
+<i>by focusing not on the letter's
+construction, but on its appearance.</i>
+
+597
+00:32:47,298 --> 00:32:49,384
+<i>And the simplest letters
+can be the trickiest. </i>
+
+598
+00:32:49,592 --> 00:32:53,262
+<i>The letter X appears to be made
+from two continuous lines that cross.</i>
+
+599
+00:32:53,471 --> 00:32:57,058
+<i>But to have the appearance of continuity,
+the lighter stroke needs to be broken</i>
+
+600
+00:32:57,141 --> 00:32:59,560
+<i>in a phenomenon known as...</i>
+
+601
+00:33:01,396 --> 00:33:03,773
+<i>Disassembled,
+type doesn't even look like type.</i>
+
+602
+00:33:03,856 --> 00:33:06,901
+<i>Complex shapes like these
+can be rife with subtle adjustments </i>
+
+603
+00:33:06,985 --> 00:33:09,195
+<i>needed to provide the illusion
+of continuity.</i>
+
+604
+00:33:09,862 --> 00:33:13,324
+<i>A small curve next to a larger one
+is something you see a lot on a typeface.</i>
+
+605
+00:33:13,408 --> 00:33:16,786
+<i>But setting aside what we think we see
+and measuring what's actually there,</i>
+
+606
+00:33:16,911 --> 00:33:19,789
+<i>we find that these small
+and large curves are identical.</i>
+
+607
+00:33:20,289 --> 00:33:22,875
+<i>This is a crafty effect known as...</i>
+
+608
+00:33:22,959 --> 00:33:24,544
+<i>And it's hard at work in typography</i>
+
+609
+00:33:24,627 --> 00:33:27,672
+<i>anywhere you find a pair
+of closely related nested shapes.</i>
+
+610
+00:33:28,381 --> 00:33:30,383
+<i>Context means everything in a typeface.</i>
+
+611
+00:33:30,591 --> 00:33:33,511
+<i>Whether to give a letter form
+thick strokes and blunt corners</i>
+
+612
+00:33:33,594 --> 00:33:37,890
+<i>or delicate strokes and a sharp point
+isn't only about style, it's about size.</i>
+
+613
+00:33:38,391 --> 00:33:39,851
+<i>These two letter forms are designed</i>
+
+614
+00:33:39,934 --> 00:33:42,478
+<i>to feel like expressions
+of the same underlying idea,</i>
+
+615
+00:33:42,603 --> 00:33:45,481
+<i>but one is designed for small sizes
+and the other for large ones,</i>
+
+616
+00:33:45,565 --> 00:33:47,358
+<i>a phenomenon type designers call...</i>
+
+617
+00:34:01,247 --> 00:34:05,209
+About 20 years ago, Tiffany and Company
+commissioned me to draw their logo
+
+618
+00:34:05,293 --> 00:34:07,295
+and then to do a family of typefaces.
+
+619
+00:34:08,254 --> 00:34:10,173
+Both of these things were designed
+
+620
+00:34:10,256 --> 00:34:12,341
+to, in some way, come from
+the tradition of engraving.
+
+621
+00:34:12,425 --> 00:34:14,719
+Obviously, an engraved
+piece of jewelry is, a, uh...
+
+622
+00:34:14,844 --> 00:34:16,554
+mm, iconic Tiffany product.
+
+623
+00:34:17,180 --> 00:34:18,931
+The logo was an interesting challenge,
+though,
+
+624
+00:34:19,015 --> 00:34:21,517
+in that it's meant
+to seem consistent everywhere,
+
+625
+00:34:21,893 --> 00:34:25,313
+but behind the scenes, we design logos
+in a variety of different forms.
+
+626
+00:34:25,813 --> 00:34:28,941
+The logo will be appearing
+on a flexible hanging flag
+
+627
+00:34:29,233 --> 00:34:30,860
+or on a flat awning
+
+628
+00:34:30,943 --> 00:34:33,613
+or in three-dimensional relief in metal.
+
+629
+00:34:33,696 --> 00:34:36,199
+It means making compensations
+in the letter forms,
+
+630
+00:34:36,282 --> 00:34:38,117
+so that each thing presents the same way.
+
+631
+00:34:38,785 --> 00:34:41,662
+This project began in 1999,
+
+632
+00:34:41,746 --> 00:34:43,956
+and in 2000, I got engaged.
+
+633
+00:34:44,040 --> 00:34:46,751
+And there was this strange moment
+
+634
+00:34:46,834 --> 00:34:50,671
+where I had just finished invoicing
+my client for lettering
+
+635
+00:34:51,172 --> 00:34:54,550
+and went to pick up our wedding bands,
+
+636
+00:34:54,842 --> 00:34:58,179
+and, uh, there was an item on the receipt
+for lettering.
+
+637
+00:34:58,262 --> 00:35:01,682
+And, of course,
+it's the inscription inside our rings,
+
+638
+00:35:02,433 --> 00:35:05,186
+which includes the
+Tiffany and Company logo in small sizes.
+
+639
+00:35:07,146 --> 00:35:10,191
+<i>Carleen and I began dating in 1999.</i>
+
+640
+00:35:12,151 --> 00:35:15,738
+<i>She joined the company a few years
+after that and is now our CEO.</i>
+
+641
+00:35:16,197 --> 00:35:19,992
+<i>She spent years directing marketing here,
+and now really directs the business.</i>
+
+642
+00:35:20,576 --> 00:35:21,410
+Dude!
+
+643
+00:35:23,871 --> 00:35:26,958
+[man] What's the benefits of being married
+and working together?
+
+644
+00:35:27,458 --> 00:35:28,334
+[laughs]
+
+645
+00:35:28,417 --> 00:35:30,086
+I think... You know what's nice?
+
+646
+00:35:30,753 --> 00:35:33,172
+Neither one of us can ever
+
+647
+00:35:33,464 --> 00:35:36,843
+get annoyed with the other person
+because they have so much work to do,
+
+648
+00:35:36,926 --> 00:35:39,887
+because you totally know
+how much work they have to do.
+
+649
+00:35:39,971 --> 00:35:42,682
+I've driven Carleen nuts
+for almost 20 years with...
+
+650
+00:35:43,182 --> 00:35:44,684
+a typeface that's launching in January,
+
+651
+00:35:44,767 --> 00:35:47,145
+then suddenly it's March,
+and it's like, "It's almost done,"
+
+652
+00:35:47,228 --> 00:35:50,606
+and then it's June and it's like, "Okay,
+now it's done, but I've got a new idea."
+
+653
+00:35:50,690 --> 00:35:53,651
+Um, you know I know I make you nuts
+with that and that's...
+
+654
+00:35:53,734 --> 00:35:55,194
+-You do.
+-...will always be that way.
+
+655
+00:35:55,278 --> 00:35:56,112
+-[laughs]
+-Um...
+
+656
+00:35:56,195 --> 00:35:59,657
+But I think, I mean, we're definitely
+both able to commit to doing the things
+
+657
+00:35:59,740 --> 00:36:01,534
+that we want to do the right way.
+
+658
+00:36:02,326 --> 00:36:04,662
+<i>Carleen handles the business,
+and I handle the creative.</i>
+
+659
+00:36:04,745 --> 00:36:07,206
+<i>We both find those two things
+to be inseparable. </i>
+
+660
+00:36:07,540 --> 00:36:11,169
+<i>Carleen had this idea that we needed
+a sort of store window</i>
+
+661
+00:36:11,252 --> 00:36:13,546
+<i>where we can promote our typefaces.</i>
+
+662
+00:36:14,213 --> 00:36:17,091
+<i>So, we created this thing
+called Discover Typography </i>
+
+663
+00:36:17,175 --> 00:36:21,220
+<i>where we can create themes
+that are interactive. </i>
+
+664
+00:36:21,596 --> 00:36:23,264
+-We did--
+-Well, there are 12.
+
+665
+00:36:23,347 --> 00:36:25,016
+-Yeah. There should be more.
+-The...
+
+666
+00:36:25,099 --> 00:36:25,933
+They're hard to do.
+
+667
+00:36:26,017 --> 00:36:29,187
+[Jonathan] Wanderlust was based on
+vintage luggage tickets.
+
+668
+00:36:29,937 --> 00:36:31,522
+Barrel Proof was based on
+
+669
+00:36:31,606 --> 00:36:33,316
+-whiskey ephemera.
+-[Carleen] Yes!
+
+670
+00:36:34,066 --> 00:36:36,694
+[Jonathan] Redline is based
+on things with numbers.
+
+671
+00:36:36,777 --> 00:36:37,820
+[Carleen] Menus.
+
+672
+00:36:38,112 --> 00:36:40,573
+Take a Number was numbers
+you just run into.
+
+673
+00:36:40,656 --> 00:36:42,325
+-[Jonathan] That was a fun one.
+-Matchbooks.
+
+674
+00:36:42,700 --> 00:36:45,912
+[Jonathan] Trail Mix, we thought about the
+connection between camping and designing.
+
+675
+00:36:46,412 --> 00:36:48,080
+This is...
+
+676
+00:36:48,164 --> 00:36:51,584
+really a new way for us
+in marketing typefaces.
+
+677
+00:36:56,797 --> 00:36:58,716
+<i>Parliament is done.</i>
+
+678
+00:36:58,841 --> 00:37:01,719
+<i>Now, we're executing
+the eleventh-hour stuff.</i>
+
+679
+00:37:01,928 --> 00:37:04,263
+<i>I'll sit down with Brian Hennings,
+our creative director,</i>
+
+680
+00:37:04,889 --> 00:37:08,142
+<i>and try to find ways
+to present the typefaces</i>
+
+681
+00:37:08,226 --> 00:37:09,977
+<i>in ways that are compelling,</i>
+
+682
+00:37:10,353 --> 00:37:12,813
+that show off the best things
+of what the fonts can do,
+
+683
+00:37:12,897 --> 00:37:15,733
+but also to help
+create the kind of culture
+
+684
+00:37:15,816 --> 00:37:18,986
+that people will understand about
+what a typeface is meant to connote.
+
+685
+00:37:19,779 --> 00:37:21,364
+Parliament is so eccentric.
+
+686
+00:37:21,447 --> 00:37:23,824
+What I'm looking forward to
+is seeing where it gets used.
+
+687
+00:37:23,908 --> 00:37:26,244
+I've been working on Parliament
+for 25 years.
+
+688
+00:37:26,327 --> 00:37:29,455
+And the final act of the typeface
+will be seeing it used in the world
+
+689
+00:37:30,206 --> 00:37:32,541
+and seeing what other people think of it.
+
+690
+00:37:35,878 --> 00:37:37,004
+[cheering]
+
+691
+00:37:37,088 --> 00:37:40,383
+The dream has never died, it lives on.
+
+692
+00:37:40,675 --> 00:37:42,760
+[Jonathan] One of the treats
+of being a typeface designer
+
+693
+00:37:42,843 --> 00:37:44,845
+is you don't know where
+the work's going to wind up
+
+694
+00:37:44,929 --> 00:37:48,391
+and you can suddenly find yourself
+confronting it in the public sphere.
+
+695
+00:37:48,683 --> 00:37:51,602
+Gotham is a great example of this.
+It's something we designed
+
+696
+00:37:51,686 --> 00:37:53,813
+when Tobias Frere-Jones and I
+were working together.
+
+697
+00:37:53,896 --> 00:37:56,065
+It's certainly one
+of our best-known typefaces.
+
+698
+00:37:56,399 --> 00:38:00,528
+In the late '90s, I came upon
+the Port Authority Bus Terminal,
+
+699
+00:38:00,611 --> 00:38:03,572
+which has these marvelous letters
+on the Eighth Avenue facade.
+
+700
+00:38:03,698 --> 00:38:07,159
+They looked like somebody's elemental idea
+of just letters.
+
+701
+00:38:07,618 --> 00:38:11,872
+I wanted to do a typeface based on this
+because it felt so iconic and so familiar.
+
+702
+00:38:12,456 --> 00:38:17,795
+I was the design director of the 2007-2008
+Obama presidential campaign.
+
+703
+00:38:18,337 --> 00:38:20,923
+Gotham really did speak
+of American values.
+
+704
+00:38:21,257 --> 00:38:24,552
+Having that boldness
+and having that candor and that honesty
+
+705
+00:38:24,635 --> 00:38:27,930
+that you just see when you lay out
+the letters C-H-A-N-G-E.
+
+706
+00:38:30,266 --> 00:38:32,685
+It always starts with
+when you look at a letter form,
+
+707
+00:38:32,768 --> 00:38:33,811
+or you look at a word,
+
+708
+00:38:33,894 --> 00:38:38,149
+does it actually communicate
+something deeper than the word itself?
+
+709
+00:38:38,983 --> 00:38:41,819
+Does it actually drive
+some other meaning to you?
+
+710
+00:38:41,902 --> 00:38:44,363
+And, subconsciously,
+I think all letter forms do.
+
+711
+00:38:44,864 --> 00:38:46,490
+It comes down to
+
+712
+00:38:46,574 --> 00:38:49,243
+what is the emotional quality
+that we're trying to say with this word?
+
+713
+00:38:49,535 --> 00:38:52,705
+And I think that that's the opportunity
+that we have with typography.
+
+714
+00:38:52,872 --> 00:38:55,041
+It's impossible for me
+to say that... that...
+
+715
+00:38:55,458 --> 00:38:59,795
+uh, there is something about the typeface
+that it was instrumental to the campaign.
+
+716
+00:39:00,338 --> 00:39:02,173
+But in the last House race,
+
+717
+00:39:02,256 --> 00:39:06,302
+69 different candidates used Gotham
+on both sides of the aisle.
+
+718
+00:39:06,802 --> 00:39:10,973
+We're starting to see Gotham become
+the typeface that politicians use
+
+719
+00:39:11,557 --> 00:39:13,476
+because it has a track record of success.
+
+720
+00:39:14,810 --> 00:39:17,271
+It's a thrill to realize
+the thing you put all this effort into,
+
+721
+00:39:17,355 --> 00:39:19,690
+at least one other person in the world
+also likes enough
+
+722
+00:39:19,774 --> 00:39:21,108
+to use them in something.
+
+723
+00:39:21,484 --> 00:39:23,277
+The cornerstone
+for the new World Trade Center
+
+724
+00:39:23,361 --> 00:39:25,654
+was designed by Michael Gericke
+at Pentagram,
+
+725
+00:39:25,738 --> 00:39:27,656
+set in Gotham.
+
+726
+00:39:27,740 --> 00:39:30,576
+Michael chose Gotham
+because it's of the city.
+
+727
+00:39:30,659 --> 00:39:32,203
+It's a typeface that was
+
+728
+00:39:32,286 --> 00:39:35,414
+designed based upon lettering
+here in New York.
+
+729
+00:39:35,748 --> 00:39:38,250
+This was an amazing moment
+in my career.
+
+730
+00:39:39,460 --> 00:39:40,544
+It was very...
+
+731
+00:39:41,003 --> 00:39:42,338
+very moving, emotionally.
+
+732
+00:39:42,421 --> 00:39:46,133
+I mean, you can't be a New Yorker and not
+have your own September 11th story.
+
+733
+00:39:46,634 --> 00:39:49,345
+To have this particular connection
+to the rebuilding
+
+734
+00:39:49,804 --> 00:39:51,972
+was really quite something.
+
+735
+00:39:52,348 --> 00:39:54,308
+I think of all the places
+I've seen Gotham used,
+
+736
+00:39:54,725 --> 00:39:56,519
+that's the most profound.
+
+737
+00:39:56,602 --> 00:39:58,312
+It's one of the things I think of first.
+
+738
+00:40:04,568 --> 00:40:07,029
+It's a strange feeling
+to complete a typeface.
+
+739
+00:40:09,573 --> 00:40:11,033
+Decimal’s been evolving.
+
+740
+00:40:11,117 --> 00:40:13,244
+This is the G I had originally and...
+
+741
+00:40:13,577 --> 00:40:16,122
+So, we've been very slowly
+making it squarer.
+
+742
+00:40:17,331 --> 00:40:19,041
+This is how the S began originally.
+
+743
+00:40:19,500 --> 00:40:22,211
+And it's gradually become squarer as well.
+
+744
+00:40:22,753 --> 00:40:24,338
+This the four where we began,
+
+745
+00:40:25,214 --> 00:40:26,590
+and this is the final version.
+
+746
+00:40:27,425 --> 00:40:29,009
+We finally reached a point that
+
+747
+00:40:29,093 --> 00:40:32,096
+the balance of the square and the round
+doesn't take two different approaches,
+
+748
+00:40:32,179 --> 00:40:34,890
+but takes a single one
+through the execution of its letter forms.
+
+749
+00:40:36,350 --> 00:40:37,601
+[Troy] It's lookin' good!
+
+750
+00:40:38,185 --> 00:40:39,145
+It is.
+
+751
+00:40:39,937 --> 00:40:42,731
+-It's great to see the range of weights.
+-[Jonathan] Yeah.
+
+752
+00:40:43,315 --> 00:40:46,819
+I'm excited about Decimal.
+It's come a long way from watch lettering.
+
+753
+00:40:47,486 --> 00:40:49,530
+You'd be hard-pressed to look
+at an actual wristwatch
+
+754
+00:40:49,613 --> 00:40:51,699
+and see that Decimal came from this.
+
+755
+00:40:52,199 --> 00:40:53,033
+I like that...
+
+756
+00:40:53,826 --> 00:40:56,579
+I can't even describe it. It's almost like
+these are engraved letters.
+
+757
+00:40:56,662 --> 00:40:59,832
+Like, the copperplate tradition
+or something. And yet it's not stuffy.
+
+758
+00:41:00,791 --> 00:41:02,126
+<i>You'll be able to use the typeface</i>
+
+759
+00:41:02,209 --> 00:41:05,087
+<i>in a way that is
+completely divorced from its origins,</i>
+
+760
+00:41:05,171 --> 00:41:07,214
+<i>which hopefully makes it versatile.</i>
+
+761
+00:41:07,506 --> 00:41:09,049
+<i>But I'm curious to see how it gets used.</i>
+
+762
+00:41:09,133 --> 00:41:12,386
+<i>Whether people sense in this
+that it has a heritage behind it,</i>
+
+763
+00:41:12,470 --> 00:41:14,096
+<i>or whether it feels entirely new. </i>
+
+764
+00:41:14,889 --> 00:41:19,059
+I just... I gotta say, I love the way
+these little spurs worked out in the thin.
+
+765
+00:41:19,143 --> 00:41:20,436
+So nice, Troy.
+
+766
+00:41:22,104 --> 00:41:23,439
+<i>It's obviously very rewarding</i>
+
+767
+00:41:23,522 --> 00:41:29,069
+<i>to see that the very small
+and mysterious thing that we do</i>
+
+768
+00:41:29,153 --> 00:41:33,491
+<i>become such a part of the fabric
+of communication and of the world.</i>
+
+769
+00:41:35,784 --> 00:41:38,829
+<i>One of the most rewarding things to me
+is seeing the ways</i>
+
+770
+00:41:38,913 --> 00:41:43,042
+<i>that people use the work that I do
+in ways I never expected.</i>
+
+771
+00:41:43,667 --> 00:41:47,755
+<i>The way they find new voices
+of typography</i>
+
+772
+00:41:48,005 --> 00:41:49,757
+<i>that's pushing things forward.</i>
+
+773
+00:41:49,840 --> 00:41:52,468
+<i>It's changing how people speak
+to each other.</i>
+
+774
+00:41:52,927 --> 00:41:54,345
+<i>It's an exciting thing to watch.</i>
+

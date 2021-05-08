@@ -1,0 +1,68 @@
+[
+    { "group" : "approx-moderate",
+      "words" : [ "approximately", "partly", "most", "often",
+                  "occasionally", "sometimes", "mainly", "mostly",
+                  "generally", "typically", "usually" ] 
+    },
+    { "group" : "approx-extreme",
+      "words" : [ "barely", "hardly", "almost", "practically",
+                  "virtually", "fairly", "pretty", "vaguely", "kinda",
+                  "sorta", "quite", "somewhat" ]
+    },
+    { "group" : "quantity",
+      "words" : [ "alot", "lot", "lots", "some", "sort", "sorts" ] 
+    },
+    { "group" : "pronoun-indef",
+      "words" : [ "any", "anybody", "anyone", "anything", "anytime",
+                  "anywhere", "or", "somebody", "somebody's", "someone",
+                  "someone's", "something", "something's", "somewhere" ]
+    },
+    { "group" : "ostension",
+      "words" : [ "anyhow", "apparently", "appears", "dunno", "seem",
+                  "seemed", "seems", "somehow", "supposedly" ] 
+    },
+    { "group" : "possibility",
+      "words" : [ "if", "maybe", "might", "perhaps", "possibly",
+                  "probably" ]
+    },
+    { "group" : "hypothesis",
+      "words" : [ "assumption", "assumptions", "hypothesize",
+                  "hypothetical", "theory"] 
+    },
+    { "group" : "speculation",
+      "words" : [ "doubt", "wonder", "wondered", "wondering" ]
+    },
+    { "group" : "assumption",
+      "words" : [ "assume", "assumed", "assumes", "assuming", "guess",
+                  "guessing", "suppose", "supposed", "supposing"] },
+    { "group" : "aspiration",
+      "words" : [ "hope", "hoped", "hopefully", "hoping", "may",
+                  "someday", "sometime", "potentially", "theoretically",
+                  "likely", "unlikely"]
+    },
+    { "group" : "feasibility",
+      "words" : [ "chance", "feasible", "possibilities", "possibility",
+                  "possible", "potential", "try", "trying"] 
+    },
+    { "group" : "contingence",
+      "words" : [ "contingent", "depend", "depending", "depends",
+                  "option", "optional", "optionally", "options",
+                  "random", "randomly", "variable", "variables",
+                  "varies", "vary" ]
+    },
+    { "group" : "opinion",
+      "words" : [ "bet", "betting", "doubting", "hesitant", "luck",
+                  "lucky", "opinion", "question", "questioning",
+                  "questions", "undecided" ] 
+    },
+    { "group" : "tendency",
+      "words" : [ "appear", "appearing", "border", "borderline",
+                  "indirect", "indirectly", "lotta", "overall",
+                  "temporally", "temporary", "temporarily" ]
+    },
+    { "group" : "vagueness",
+      "words" : [ "blurred", "confuse", "confused", "confusing",
+                  "confusion", "confusions", "mystery", "puzzle",
+                  "puzzling", "unclear", "unknown", "vague" ] 
+    }
+]

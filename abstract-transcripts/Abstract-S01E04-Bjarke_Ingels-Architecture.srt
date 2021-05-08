@@ -1,0 +1,2861 @@
+1
+00:00:06,715 --> 00:00:10,045
+[director] Is this going to be
+a slapstick comedy? Is it an action film?
+
+2
+00:00:10,135 --> 00:00:11,925
+You know, let's have fun with it.
+
+3
+00:00:12,012 --> 00:00:13,892
+-Yeah.
+-We can do anything.
+
+4
+00:00:13,972 --> 00:00:14,892
+Oh yeah, nice.
+
+5
+00:00:14,973 --> 00:00:19,103
+So what do you think your movie should be?
+
+6
+00:00:19,186 --> 00:00:24,226
+All right, it should be like
+the documentary version of <i>Inception</i>.
+
+7
+00:00:28,153 --> 00:00:31,243
+[Bjarke] <i>The whole premise</i>
+<i>of </i>Inception<i> is that, in real life,</i>
+
+8
+00:00:31,323 --> 00:00:35,203
+<i>you can't really realize the dreams</i>
+<i>because you have so many constraints,</i>
+
+9
+00:00:35,285 --> 00:00:39,455
+<i>but whereas in the dream world,</i>
+<i>they could do all these kinds of things.</i>
+
+10
+00:00:39,540 --> 00:00:43,130
+And when architecture is at its best,
+that's exactly what you're doing,
+
+11
+00:00:43,210 --> 00:00:45,670
+you're coming up with
+something that is pure fiction.
+
+12
+00:00:45,754 --> 00:00:47,674
+Then after all the hard work,
+all the permits,
+
+13
+00:00:47,756 --> 00:00:49,466
+all the budgeting
+and all the construction,
+
+14
+00:00:49,549 --> 00:00:51,509
+it now becomes concrete reality.
+
+15
+00:00:56,640 --> 00:00:57,980
+[Martinussen] <i>When Bjarke came around,</i>
+
+16
+00:00:59,226 --> 00:01:01,096
+<i>Danish architecture was somehow sleeping.</i>
+
+17
+00:01:04,815 --> 00:01:09,355
+<i>We had our heydays back</i>
+<i>in the '50s, the '60s, the '70s.</i>
+
+18
+00:01:11,738 --> 00:01:15,528
+<i>We became world-famous compared to</i>
+<i>how small we are, actually.</i>
+
+19
+00:01:19,121 --> 00:01:21,621
+<i>At the time Bjarke came around,</i>
+
+20
+00:01:21,707 --> 00:01:24,537
+<i>people didn't expect</i>
+<i>anything really to happen.</i>
+
+21
+00:01:26,753 --> 00:01:31,093
+<i>And I think you could argue</i>
+<i>that he really made everybody wake up.</i>
+
+22
+00:01:31,174 --> 00:01:32,974
+[dramatic music playing]
+
+23
+00:01:35,679 --> 00:01:41,939
+<i>What he was proposing had such a scale</i>
+<i>and such revolutionary qualities</i>
+
+24
+00:01:42,019 --> 00:01:44,229
+<i>that the Danes got scared.</i>
+
+25
+00:02:01,830 --> 00:02:04,670
+[news reporter 1]<i> Bjarke Ingels</i>
+<i>is having his moment.</i>
+
+26
+00:02:04,750 --> 00:02:07,420
+[news reporter 2] <i>At just 40 years old,</i>
+<i>he has established himself</i>
+
+27
+00:02:07,502 --> 00:02:11,092
+<i>as one of the world's most inventive</i>
+<i>and sought-after architects.</i>
+
+28
+00:02:11,173 --> 00:02:13,303
+[news reporter 3]
+<i>His designs can be provocative.</i>
+
+29
+00:02:14,051 --> 00:02:17,601
+[commentator] <i>He's transforming</i>
+<i>the shape of New York as we know it.</i>
+
+30
+00:02:17,679 --> 00:02:19,509
+[dramatic music continues]
+
+31
+00:02:47,417 --> 00:02:50,707
+[Bjarke] <i>There's no doubt that</i>
+<i>in architecture there's this catch-22.</i>
+
+32
+00:02:51,046 --> 00:02:53,126
+<i>Nobody will entrust you</i>
+<i>to build a building</i>
+
+33
+00:02:53,215 --> 00:02:54,545
+<i>until you've already built a building.</i>
+
+34
+00:02:59,429 --> 00:03:02,599
+<i>This is the Maritime Youth House</i>
+<i>in Copenhagen.</i>
+
+35
+00:03:02,682 --> 00:03:03,772
+<i>It's...</i>
+
+36
+00:03:06,269 --> 00:03:08,059
+I guess it's our first building.
+
+37
+00:03:09,064 --> 00:03:13,364
+I celebrated my 30th birthday
+in that space.
+
+38
+00:03:13,443 --> 00:03:14,703
+It was just completed.
+
+39
+00:03:16,655 --> 00:03:20,075
+<i>Our practice, Bjarke Ingels Group,</i>
+<i>or in short BIG,</i>
+
+40
+00:03:20,158 --> 00:03:22,368
+<i>started 15 or 16 years ago.</i>
+
+41
+00:03:24,162 --> 00:03:29,632
+<i>Our rise has sort of coincided with</i>
+<i>the rise of the environmental movement.</i>
+
+42
+00:03:32,087 --> 00:03:34,917
+<i>So we came up with this idea</i>
+<i>of Hedonistic Sustainability.</i>
+
+43
+00:03:35,006 --> 00:03:39,466
+<i>What if sustainability could be part of</i>
+<i>actually increasing your quality of life?</i>
+
+44
+00:03:41,638 --> 00:03:45,228
+<i>So I think in this case, it's a</i>
+<i>beautiful site, but the site was polluted,</i>
+
+45
+00:03:45,308 --> 00:03:48,518
+<i>because they had been painting</i>
+<i>the underside of boats here.</i>
+
+46
+00:03:51,064 --> 00:03:55,784
+A lot of the money in the budget
+was reserved for digging up the topsoil...
+
+47
+00:03:56,361 --> 00:03:58,201
+<i>and moving it somewhere else.</i>
+
+48
+00:03:59,156 --> 00:04:03,656
+<i>So we thought, what if we covered</i>
+<i>the entire ground with a wooden deck?</i>
+
+49
+00:04:04,161 --> 00:04:06,831
+<i>Then we can leave the soil as it is.</i>
+
+50
+00:04:06,913 --> 00:04:08,373
+<i>We put up this sheet.</i>
+
+51
+00:04:08,457 --> 00:04:11,747
+If you want more program over here,
+we'll just lift the deck here.
+
+52
+00:04:11,835 --> 00:04:16,205
+If you want to park some boats here,
+we store the boats underneath the...
+
+53
+00:04:16,298 --> 00:04:19,678
+So I think it had
+this sense of possibility.
+
+54
+00:04:20,761 --> 00:04:23,051
+<i>These rolling hills next to the sea,</i>
+
+55
+00:04:23,138 --> 00:04:26,348
+<i>it also somehow inspires</i>
+<i>movement and playfulness.</i>
+
+56
+00:04:28,852 --> 00:04:31,062
+<i>We won the competition</i>
+<i>for the Maritime Youth House.</i>
+
+57
+00:04:34,858 --> 00:04:38,988
+<i>We found a lot of ways</i>
+<i>to solve the problems</i>
+
+58
+00:04:39,070 --> 00:04:40,950
+<i>in a completely unproblematic way.</i>
+
+59
+00:04:44,409 --> 00:04:47,579
+<i>Even though it's a very small building,</i>
+<i>with a small budget,</i>
+
+60
+00:04:47,662 --> 00:04:52,002
+<i>I think it had an impact,</i>
+<i>and it won a handful of awards.</i>
+
+61
+00:04:52,876 --> 00:04:54,706
+<i>And I think it showed</i>
+
+62
+00:04:54,795 --> 00:04:58,255
+<i>that even something that is essentially</i>
+<i>like a hut for boy scouts,</i>
+
+63
+00:04:58,340 --> 00:05:00,840
+which is typically more like
+a barrack building,
+
+64
+00:05:00,926 --> 00:05:04,546
+like sort of off the shelf,
+almost like a trailer,
+
+65
+00:05:04,638 --> 00:05:06,678
+that's what it normally is,
+
+66
+00:05:06,765 --> 00:05:11,185
+and with the same resources you could get
+something that was completely different.
+
+67
+00:05:12,020 --> 00:05:16,980
+I think that definitely opened people's
+way of thinking about architecture,
+
+68
+00:05:17,067 --> 00:05:19,487
+what a building could be
+and what it could do.
+
+69
+00:05:25,492 --> 00:05:27,372
+[director]<i> So what happened this week?</i>
+
+70
+00:05:27,452 --> 00:05:30,292
+[Bjarke] <i>Me and my partner here,</i>
+<i>at the New York office, Thomas,</i>
+
+71
+00:05:30,372 --> 00:05:35,092
+<i>went to London to Kensington Gardens,</i>
+<i>next to the Serpentine Lake.</i>
+
+72
+00:05:36,878 --> 00:05:38,668
+<i>For the last 15 years,</i>
+
+73
+00:05:38,755 --> 00:05:43,175
+the Serpentine Gallery--
+they have been making a pavilion,
+
+74
+00:05:43,260 --> 00:05:44,590
+the Serpentine Pavilion.
+
+75
+00:05:45,387 --> 00:05:48,307
+So, in the middle of Hyde Park
+over the summer,
+
+76
+00:05:48,390 --> 00:05:50,980
+from June to end of October.
+
+77
+00:05:54,563 --> 00:05:58,193
+<i>The Serpentine Gallery</i>
+<i>is almost like an icon</i>
+
+78
+00:05:58,275 --> 00:06:00,855
+<i>for miniature architectural manifestos.</i>
+
+79
+00:06:02,904 --> 00:06:07,834
+It's always commissioned to an architect
+that has never built in England before.
+
+80
+00:06:07,909 --> 00:06:14,289
+And today, two thirds of the people
+that design these pavilions...
+
+81
+00:06:14,875 --> 00:06:18,745
+<i>are Pritzker Prize-winning architects.</i>
+<i>They're really at the top of their game.</i>
+
+82
+00:06:19,379 --> 00:06:22,469
+For a comedian, it's like performing
+at <i>Saturday Night Live </i>or...
+
+83
+00:06:22,966 --> 00:06:27,136
+It's a stage where the history
+of the people that have performed there
+
+84
+00:06:27,220 --> 00:06:28,850
+makes it an honor in itself.
+
+85
+00:06:34,144 --> 00:06:38,024
+<i>And we met with</i>
+<i>the co-directors of the Serpentine</i>
+
+86
+00:06:38,106 --> 00:06:40,896
+and they started the meeting
+by telling us that the good news was
+
+87
+00:06:40,984 --> 00:06:43,994
+that we would be designing
+this year's Serpentine Pavilion.
+
+88
+00:06:46,823 --> 00:06:50,543
+I guess that was Tuesday
+and today is Friday.
+
+89
+00:06:54,247 --> 00:06:58,247
+Without having any sort of design in mind,
+imagine this sort of logic
+
+90
+00:06:58,710 --> 00:07:00,750
+where you have some kind of undulation,
+
+91
+00:07:00,837 --> 00:07:03,377
+so it almost like looks
+like a marble curtain,
+
+92
+00:07:03,465 --> 00:07:05,215
+and that's what gives it stability.
+
+93
+00:07:07,052 --> 00:07:08,352
+Almost like a James Turrell.
+
+94
+00:07:09,638 --> 00:07:13,348
+That you're inside this weird translucent,
+undulating slice of marble
+
+95
+00:07:13,433 --> 00:07:15,313
+and then you're looking up through...
+
+96
+00:07:15,393 --> 00:07:16,853
+I think with the dome...
+
+97
+00:07:16,937 --> 00:07:20,017
+I mean, it creates that one experience
+of being inside,
+
+98
+00:07:20,106 --> 00:07:23,936
+and it's probably a beautiful optic
+from the outside,
+
+99
+00:07:24,027 --> 00:07:26,357
+but that's only that one use.
+
+100
+00:07:28,198 --> 00:07:31,528
+You're doing an entire building
+within six months.
+
+101
+00:07:32,535 --> 00:07:35,285
+<i>Normally a project that goes fast</i>
+<i>takes six years,</i>
+
+102
+00:07:35,372 --> 00:07:39,212
+<i>so we're going to try to see</i>
+<i>how many ideas we can crank out.</i>
+
+103
+00:07:41,419 --> 00:07:43,339
+I mean, there was something interesting
+
+104
+00:07:43,421 --> 00:07:46,011
+about like making a wall
+that morphs to become a pavilion.
+
+105
+00:07:48,259 --> 00:07:51,679
+You know, it could be a way
+of making a wall
+
+106
+00:07:51,763 --> 00:07:56,023
+that creates a cave,
+and an auditorium, right?
+
+107
+00:07:56,101 --> 00:07:57,021
+[Thomas] Yeah.
+
+108
+00:07:58,728 --> 00:08:02,728
+It's more like a magical manipulation
+of a conventional element...
+
+109
+00:08:02,816 --> 00:08:03,856
+[Thomas] Mm-hmm.
+
+110
+00:08:03,942 --> 00:08:06,072
+that then becomes space.
+
+111
+00:08:07,904 --> 00:08:08,954
+Cool?
+
+112
+00:08:11,282 --> 00:08:12,662
+[in Danish]<i> </i>Let's do it!
+
+113
+00:08:18,039 --> 00:08:19,919
+I'm Elisabet Ingels.
+
+114
+00:08:20,875 --> 00:08:23,455
+And I'm Knud Bundgaard Jensen.
+
+115
+00:08:26,172 --> 00:08:30,642
+And this is Fidel. He's a Bichon Havanese.
+
+116
+00:08:30,719 --> 00:08:36,389
+And it's Bjarke
+who had given him the name.
+
+117
+00:08:36,474 --> 00:08:38,814
+-He's from Cuba.
+-Cuba.
+
+118
+00:08:38,893 --> 00:08:44,233
+We couldn't call him Cuba,
+because there's a Cuba down the street.
+
+119
+00:08:44,315 --> 00:08:45,355
+Another dog.
+
+120
+00:08:45,442 --> 00:08:49,362
+Yeah another dog, and so it's Fidel.
+
+121
+00:08:51,990 --> 00:08:57,250
+[Knud] He was drawing very much.
+It was his great interest.
+
+122
+00:08:58,204 --> 00:09:04,504
+He was considering making comics
+until 18, 19 years.
+
+123
+00:09:04,586 --> 00:09:05,586
+[director] What did you think
+
+124
+00:09:05,670 --> 00:09:08,720
+when he told you he was
+gonna study architecture?
+
+125
+00:09:08,798 --> 00:09:12,048
+-Actually--
+-It's a family project.
+
+126
+00:09:12,802 --> 00:09:14,682
+-Yes--
+-[director] So explain.
+
+127
+00:09:15,346 --> 00:09:20,766
+We told Bjarke,
+"You can later try making comics,
+
+128
+00:09:20,852 --> 00:09:25,822
+you can later get a job
+at an advertising bureau,
+
+129
+00:09:25,899 --> 00:09:29,899
+but I think that you should
+study architecture."
+
+130
+00:09:34,657 --> 00:09:37,037
+[Bjarke]<i> I went to Architecture school</i>
+<i>in Barcelona.</i>
+
+131
+00:09:37,118 --> 00:09:39,408
+<i>I wanted to use some of the first years</i>
+
+132
+00:09:39,496 --> 00:09:43,116
+<i>where you get some basic education</i>
+<i>in drawing to become a better cartoonist.</i>
+
+133
+00:09:45,335 --> 00:09:48,585
+<i>You end up in the school,</i>
+<i>you want to figure this thing out.</i>
+
+134
+00:09:49,881 --> 00:09:53,431
+<i>So I went through this sort of</i>
+<i>intellectual, serial-monogamy,</i>
+
+135
+00:09:53,510 --> 00:09:56,680
+<i>falling in love with one architect.</i>
+<i>then the next, and next...</i>
+
+136
+00:09:56,763 --> 00:10:00,273
+<i>And it completely warped my idea</i>
+<i>of what architecture could be.</i>
+
+137
+00:10:03,061 --> 00:10:06,651
+<i>And that was definitely the year where</i>
+<i>I became the person I am today.</i>
+
+138
+00:10:07,524 --> 00:10:10,494
+Getting out of Copenhagen, living in
+another city, speaking another language.
+
+139
+00:10:11,402 --> 00:10:13,742
+<i>And finally, dropping out of school,</i>
+
+140
+00:10:14,739 --> 00:10:18,119
+<i>starting my own company in Barcelona</i>
+<i>with some friends.</i>
+
+141
+00:10:18,743 --> 00:10:22,713
+<i>It was also clear that when I returned</i>
+<i>to Copenhagen a year later,</i>
+
+142
+00:10:22,789 --> 00:10:25,169
+with sort of a Spanish suntan,
+
+143
+00:10:25,250 --> 00:10:28,000
+I was a completely different person
+
+144
+00:10:28,086 --> 00:10:33,546
+<i>and could somehow do things</i>
+<i>and be credible making statements</i>
+
+145
+00:10:33,633 --> 00:10:36,393
+<i>that would have been unimaginable</i>
+<i>the year before.</i>
+
+146
+00:10:38,972 --> 00:10:42,432
+[Bjarke on video] The qualities of
+the spaces and the indoor climate
+
+147
+00:10:42,517 --> 00:10:44,307
+doesn't come from the machine room,
+
+148
+00:10:44,394 --> 00:10:49,404
+but from the qualities
+integrated into the architecture.
+
+149
+00:10:52,735 --> 00:10:55,235
+Rather than architecture
+without architects,
+
+150
+00:10:55,321 --> 00:10:57,621
+it's sort of engineering without engines,
+
+151
+00:10:57,699 --> 00:10:59,869
+or Functionalism 2.0.
+
+152
+00:11:03,872 --> 00:11:06,372
+<i>We started our company</i>
+<i>without any clients.</i>
+
+153
+00:11:07,083 --> 00:11:11,303
+But after a very long and winding road,
+we finally ended up building a building.
+
+154
+00:11:12,338 --> 00:11:13,628
+<i>The VM House.</i>
+
+155
+00:11:16,175 --> 00:11:19,135
+<i>My name is Per Høpfner. I am a developer.</i>
+
+156
+00:11:19,220 --> 00:11:22,640
+<i>I meet Bjarke, first time in 2001.</i>
+
+157
+00:11:23,600 --> 00:11:26,810
+He said, "We are a new company,
+architect company,
+
+158
+00:11:26,895 --> 00:11:30,185
+we are so fucking good,
+and we are very creative,
+
+159
+00:11:30,273 --> 00:11:33,653
+and we are so bright,
+and we can build very, very cheap."
+
+160
+00:11:33,735 --> 00:11:36,275
+"Okay, how cheap?"
+"Oh, you can't imagine."
+
+161
+00:11:37,322 --> 00:11:38,952
+Immediately, I like him.
+
+162
+00:11:39,032 --> 00:11:40,332
+[upbeat music playing]
+
+163
+00:11:43,036 --> 00:11:45,786
+[Høpfner]<i> And at that time,</i>
+<i>there was nothing here in this area.</i>
+
+164
+00:11:45,872 --> 00:11:49,962
+<i>And if you should attract people,</i>
+<i>it should be very cheap,</i>
+
+165
+00:11:50,460 --> 00:11:52,340
+<i>and there could be something special.</i>
+
+166
+00:11:53,630 --> 00:11:56,880
+[Bjarke]<i> We designed</i>
+<i>these buildings for pioneers.</i>
+
+167
+00:11:59,302 --> 00:12:03,972
+<i>We got permission</i>
+<i>to make the apartments 30% deeper,</i>
+
+168
+00:12:04,057 --> 00:12:07,477
+<i>and we made sure that each apartment</i>
+<i>had a double-height space.</i>
+
+169
+00:12:11,522 --> 00:12:16,572
+<i>For every three floors,</i>
+<i>there was only one central corridor,</i>
+
+170
+00:12:17,612 --> 00:12:21,742
+<i>so that, instead of having a corridor</i>
+<i>at every level that you had to pay for,</i>
+
+171
+00:12:21,824 --> 00:12:26,374
+<i>we boiled it down to every third level,</i>
+<i>so we could get great efficiencies.</i>
+
+172
+00:12:28,623 --> 00:12:33,293
+The beautiful thing is that at this point,
+we hadn't built as much as a dog house.
+
+173
+00:12:38,800 --> 00:12:41,430
+[Høpfner]
+<i>And the day we started to sell here,</i>
+
+174
+00:12:41,928 --> 00:12:46,098
+we have sold 110 flats for one Sunday.
+
+175
+00:12:51,062 --> 00:12:53,022
+[Bjarke] <i>It created a lot of noise.</i>
+
+176
+00:12:56,359 --> 00:12:58,279
+[Høpfner] <i>And I can tell you one thing.</i>
+
+177
+00:12:58,361 --> 00:13:01,161
+A lot of his colleagues,
+they don't like him.
+
+178
+00:13:01,239 --> 00:13:06,409
+And they don't like him because
+they've been so successful abroad.
+
+179
+00:13:06,828 --> 00:13:10,958
+<i>It's not usual for a Danish</i>
+<i>architect company to make money.</i>
+
+180
+00:13:13,543 --> 00:13:17,213
+[Bjarke] <i>We were definitely seen as being</i>
+<i>alien in a sort of Danish context.</i>
+
+181
+00:13:18,631 --> 00:13:24,601
+And it is a culture where difference,
+or disagreement is almost embarrassing.
+
+182
+00:13:28,182 --> 00:13:29,272
+<i>How's it going?</i>
+
+183
+00:13:29,350 --> 00:13:31,690
+<i>-</i>[woman] <i>Hello, happy New Year!</i>
+<i>-</i>[Bjarke] <i>Happy New Year!</i>
+
+184
+00:13:31,769 --> 00:13:34,689
+You never left the office?
+
+185
+00:13:35,648 --> 00:13:37,188
+[all laugh]
+
+186
+00:13:40,278 --> 00:13:41,108
+Yeah.
+
+187
+00:13:42,196 --> 00:13:43,816
+[speaking Danish]
+
+188
+00:13:44,699 --> 00:13:46,489
+[Bjarke] <i>Because the time schedule</i>
+<i>is so compressed</i>
+
+189
+00:13:46,576 --> 00:13:48,196
+<i>for the Serpentine Pavilion,</i>
+
+190
+00:13:48,286 --> 00:13:50,196
+<i>we have to make decisions absurdly fast.</i>
+
+191
+00:13:51,831 --> 00:13:55,291
+<i>We have been keeping</i>
+<i>a series of ideas alive.</i>
+
+192
+00:13:56,127 --> 00:14:00,007
+<i>For a while we had three,</i>
+<i>then we boiled it down to two.</i>
+
+193
+00:14:01,132 --> 00:14:03,932
+<i>And I think we are looking</i>
+<i>at this idea of a wall</i>
+
+194
+00:14:04,010 --> 00:14:07,260
+<i>that is made out of</i>
+<i>fiberglass bricks or blocks.</i>
+
+195
+00:14:07,889 --> 00:14:11,229
+And then you're almost pulling it apart,
+like a zipper,
+
+196
+00:14:11,809 --> 00:14:14,939
+<i>so that it becomes undulating landscapes</i>
+<i>on the exterior,</i>
+
+197
+00:14:15,021 --> 00:14:16,401
+<i>like a valley and a hillside.</i>
+
+198
+00:14:16,481 --> 00:14:21,281
+And then on the inside, it creates
+this crevasse, or canyon, or cave.
+
+199
+00:14:23,071 --> 00:14:24,281
+So try to place this...
+
+200
+00:14:28,242 --> 00:14:31,252
+-[colleague 1] This one is lower.
+-[colleague 2] That one should fit, yeah.
+
+201
+00:14:31,788 --> 00:14:32,958
+That's kind of nice.
+
+202
+00:14:34,499 --> 00:14:37,499
+[Bjarke] <i>There's no doubt that the wall</i>
+<i>looks very good, right?</i>
+
+203
+00:14:37,585 --> 00:14:38,745
+[colleagues] <i>Yeah.</i>
+
+204
+00:14:38,836 --> 00:14:41,706
+[Bjarke] And it feels very comfortable.
+
+205
+00:14:41,798 --> 00:14:44,338
+It's the kind of shit we do.
+
+206
+00:14:44,425 --> 00:14:48,045
+And I think it's also
+the one we have developed the furthest.
+
+207
+00:14:48,137 --> 00:14:50,767
+There's a couple different ways
+we can put it together.
+
+208
+00:14:52,225 --> 00:14:55,935
+I have a feeling that we could do this
+and it would be a great success.
+
+209
+00:14:57,271 --> 00:14:58,191
+Yeah.
+
+210
+00:14:58,272 --> 00:15:00,862
+There's almost nothing
+that wouldn't be cool about it.
+
+211
+00:15:01,609 --> 00:15:02,529
+Maybe we should just do it.
+
+212
+00:15:03,403 --> 00:15:04,703
+[all laugh]
+
+213
+00:15:10,618 --> 00:15:12,828
+[Bjarke] <i>The way you realize</i>
+<i>your wildest dreams</i>
+
+214
+00:15:12,912 --> 00:15:14,372
+<i>is actually one step at a time.</i>
+
+215
+00:15:15,456 --> 00:15:17,246
+[fast-paced music]
+
+216
+00:15:19,210 --> 00:15:22,710
+<i>The master plan of this whole neighborhood</i>
+
+217
+00:15:22,797 --> 00:15:27,137
+<i>was basically saying to build</i>
+<i>a stack of apartments</i>
+
+218
+00:15:27,218 --> 00:15:30,098
+<i>and then a big box of parking behind.</i>
+
+219
+00:15:34,517 --> 00:15:38,597
+<i>So we got this idea:</i>
+<i>What if the parking fills the entire site?</i>
+
+220
+00:15:38,688 --> 00:15:41,858
+<i>And then instead of having</i>
+<i>a vertical stack of homes,</i>
+
+221
+00:15:41,941 --> 00:15:44,821
+they become houses with gardens,
+
+222
+00:15:44,902 --> 00:15:49,822
+like a giant staircase covering
+a big sort of mountain of parking.
+
+223
+00:15:51,701 --> 00:15:55,871
+<i>What we see here</i>
+<i>is all the sun-facing gardens,</i>
+
+224
+00:15:56,914 --> 00:15:59,334
+where each home has a garden
+
+225
+00:15:59,417 --> 00:16:02,207
+<i>that is roughly the same size</i>
+<i>as the apartment itself.</i>
+
+226
+00:16:02,712 --> 00:16:05,842
+<i>And then they sit on</i>
+<i>this cave full of cars.</i>
+
+227
+00:16:09,302 --> 00:16:11,142
+The underside actually becomes
+
+228
+00:16:11,220 --> 00:16:14,720
+<i>the front door of the homes</i>
+<i>of people arriving</i>
+
+229
+00:16:14,807 --> 00:16:17,977
+so we made the underside
+very, very colorful.
+
+230
+00:16:22,940 --> 00:16:24,780
+<i>Whenever we design homes,</i>
+
+231
+00:16:26,110 --> 00:16:29,910
+I'm also thinking about myself:
+What would I think would be amazing?
+
+232
+00:16:31,741 --> 00:16:35,081
+<i>And I think in this case,</i>
+<i>it's almost like realizing a dream</i>
+
+233
+00:16:35,161 --> 00:16:38,461
+that an apartment block doesn't have to
+look like a big, boxy slab.
+
+234
+00:16:38,539 --> 00:16:43,589
+It could be like
+this sort of man-made mountain.
+
+235
+00:16:47,840 --> 00:16:50,550
+<i>You don't have to choose</i>
+<i>between building a parking structure</i>
+
+236
+00:16:50,635 --> 00:16:51,885
+<i>or an apartment building.</i>
+
+237
+00:16:51,969 --> 00:16:54,389
+<i>You don't have to choose</i>
+<i>between a house with a garden</i>
+
+238
+00:16:54,472 --> 00:16:55,812
+<i>or having a penthouse view.</i>
+
+239
+00:16:55,890 --> 00:16:57,730
+<i>You can actually have both.</i>
+
+240
+00:16:57,808 --> 00:17:02,438
+And once you force these sort of seemingly
+mutually exclusive concepts together,
+
+241
+00:17:02,522 --> 00:17:07,362
+you actually get a new hybrid
+that somehow ends up looking different
+
+242
+00:17:07,443 --> 00:17:09,113
+because it performs differently.
+
+243
+00:17:16,410 --> 00:17:19,500
+<i>I think The Mountain is</i>
+<i>a quite good example of pragmatic utopia</i>
+
+244
+00:17:19,580 --> 00:17:23,040
+<i>in the sense that it's done</i>
+<i>within one city block,</i>
+
+245
+00:17:24,710 --> 00:17:28,970
+<i>so it becomes a very pragmatic realization</i>
+<i>of something utopian</i>
+
+246
+00:17:29,048 --> 00:17:30,718
+<i>but, like, one block at a time.</i>
+
+247
+00:17:35,846 --> 00:17:38,136
+<i>When I think</i>
+<i>just that The Mountain is here,</i>
+
+248
+00:17:38,224 --> 00:17:41,354
+<i>it means that there is another way,</i>
+<i>there is another possibility.</i>
+
+249
+00:17:41,435 --> 00:17:44,395
+And therefore
+it makes the utopia more possible.
+
+250
+00:17:47,608 --> 00:17:50,188
+<i>And that's what we mean with </i>Yes Is More.
+
+251
+00:17:52,738 --> 00:17:56,028
+At that point,
+I'd never really written it down,
+
+252
+00:17:56,117 --> 00:18:00,037
+so it existed in the form of lectures,
+verbal tradition.
+
+253
+00:18:00,121 --> 00:18:01,581
+[inaudible dialogue]
+
+254
+00:18:01,664 --> 00:18:04,634
+Yes Is More <i>is presented</i>
+<i>in the form of a comic book.</i>
+
+255
+00:18:06,877 --> 00:18:10,047
+<i>It's not like you have the text first,</i>
+<i>and then you get the pictures.</i>
+
+256
+00:18:10,131 --> 00:18:14,591
+<i>You have the things intertwined</i>
+<i>so it becomes more conversational.</i>
+
+257
+00:18:15,469 --> 00:18:17,179
+So then of course, in retrospect,
+
+258
+00:18:17,263 --> 00:18:18,393
+it feels quite logical,
+
+259
+00:18:18,472 --> 00:18:20,852
+because I wanted
+to become a graphic novelist
+
+260
+00:18:20,933 --> 00:18:24,313
+and I kind of deviated
+from that trajectory at some point,
+
+261
+00:18:24,395 --> 00:18:25,725
+it's kind of a return to home.
+
+262
+00:18:28,149 --> 00:18:33,779
+[Martinussen]<i> The book very rapidly</i>
+<i>gave him the position as a rising star.</i>
+
+263
+00:18:33,863 --> 00:18:37,283
+He was... Suddenly, he was there.
+And quite massive.
+
+264
+00:18:39,160 --> 00:18:42,040
+<i>Which changed</i>
+<i>the culture of young architects.</i>
+
+265
+00:18:46,042 --> 00:18:51,132
+<i>Bjarke took up the idea of, I think,</i>
+<i>asking the Danes:</i>
+
+266
+00:18:52,214 --> 00:18:54,514
+what is it actually that we want to do
+
+267
+00:18:54,592 --> 00:18:58,302
+from having had
+this spectacular tradition?
+
+268
+00:18:59,764 --> 00:19:01,684
+<i>How can we be revolutionary,</i>
+
+269
+00:19:01,766 --> 00:19:05,646
+<i>but in such a manner that you would not</i>
+<i>forget your tradition?</i>
+
+270
+00:19:06,479 --> 00:19:09,649
+So for instance, the building
+that we are standing in right now
+
+271
+00:19:09,732 --> 00:19:12,362
+is actually a building which is,
+in itself, a merger.
+
+272
+00:19:15,780 --> 00:19:17,280
+[Bjarke] <i>The 8 House.</i>
+
+273
+00:19:18,157 --> 00:19:19,527
+[digital music plays]
+
+274
+00:19:21,744 --> 00:19:24,914
+<i>500 homes, shops and offices</i>
+<i>and kindergartens.</i>
+
+275
+00:19:25,706 --> 00:19:28,036
+<i>Classic apartments and more town houses.</i>
+
+276
+00:19:28,584 --> 00:19:32,634
+And we've actually created
+a giant mountain path
+
+277
+00:19:33,214 --> 00:19:35,054
+<i>with an ADA-accessible slope.</i>
+
+278
+00:19:35,841 --> 00:19:38,591
+<i>So it sort of becomes like</i>
+<i>a three-dimensional community.</i>
+
+279
+00:19:40,596 --> 00:19:44,596
+I like big ideas and the BIG Group
+when it makes a big building,
+
+280
+00:19:44,684 --> 00:19:46,024
+that's just for me.
+
+281
+00:19:46,102 --> 00:19:46,942
+[laughs]
+
+282
+00:19:51,816 --> 00:19:55,146
+<i>We feel like we are living in a village.</i>
+
+283
+00:19:55,236 --> 00:20:01,026
+<i>We have the beautiful rooms in common</i>
+<i>where we make parties and eat together,</i>
+
+284
+00:20:01,117 --> 00:20:02,787
+<i>and a path that you can walk.</i>
+
+285
+00:20:03,953 --> 00:20:07,253
+<i>The children out here,</i>
+<i>they really enjoy it,</i>
+
+286
+00:20:07,331 --> 00:20:10,001
+<i>and I can see it from our balcony.</i>
+
+287
+00:20:10,084 --> 00:20:11,754
+<i>It's just beautiful to see.</i>
+
+288
+00:20:15,673 --> 00:20:18,803
+[Bjarke]<i> In the big picture,</i>
+<i>architecture is the art and science</i>
+
+289
+00:20:18,884 --> 00:20:21,604
+<i>of creating the framework of our lives.</i>
+
+290
+00:20:21,679 --> 00:20:25,429
+<i>And the buildings that we built,</i>
+<i>they either open possibilities</i>
+
+291
+00:20:25,516 --> 00:20:29,146
+<i>or they hinder encounters or connections.</i>
+
+292
+00:20:32,356 --> 00:20:35,816
+With the 8 House, it really has become
+a three-dimensional community
+
+293
+00:20:35,901 --> 00:20:38,491
+and you can see it
+in the people living here.
+
+294
+00:20:38,571 --> 00:20:41,781
+There are so many initiatives,
+a lot of the people know each other.
+
+295
+00:20:43,159 --> 00:20:44,789
+[in French] Gabrielle? How's it going?
+
+296
+00:20:44,869 --> 00:20:46,369
+[laughs]
+
+297
+00:20:47,246 --> 00:20:48,576
+[in French] Is that beautiful Hélène?
+
+298
+00:20:50,124 --> 00:20:51,334
+[Gabrielle] Good to see you!
+
+299
+00:20:51,417 --> 00:20:52,917
+[both laugh]
+
+300
+00:20:53,544 --> 00:20:59,094
+Actually the funny thing is Gabrielle
+and I and her husband were doing...
+
+301
+00:20:59,175 --> 00:21:01,255
+I think you were both
+students at the time.
+
+302
+00:21:01,343 --> 00:21:02,183
+-Yeah.
+-Or--
+
+303
+00:21:02,261 --> 00:21:03,761
+-Interns, yes.
+-Interns.
+
+304
+00:21:03,846 --> 00:21:07,216
+So we were working on
+our first book and exhibition,
+
+305
+00:21:07,308 --> 00:21:11,438
+so we were doing sort of
+24-hour work days--
+
+306
+00:21:11,520 --> 00:21:15,480
+-Yeah, <i>Yes Is More</i>!
+-for a month and a half.
+
+307
+00:21:15,566 --> 00:21:21,026
+So we ended up resulting in this
+amazing comic book and exhibition,
+
+308
+00:21:21,113 --> 00:21:23,203
+but also I think
+that was actually the time
+
+309
+00:21:23,282 --> 00:21:26,452
+when we suddenly noticed that
+they were hanging out more and more,
+
+310
+00:21:26,535 --> 00:21:28,075
+even after the deadline was over.
+
+311
+00:21:28,162 --> 00:21:29,082
+Exactly.
+
+312
+00:21:29,914 --> 00:21:35,424
+Yeah, so Hélène is a little bit part
+of BIG as well, yeah.
+
+313
+00:21:35,503 --> 00:21:36,963
+For sure.
+
+314
+00:21:37,713 --> 00:21:41,133
+And one of the smallest BIGsters. Okay.
+
+315
+00:21:46,555 --> 00:21:49,725
+[Rice] <i>Bjarke started off doing</i>
+<i>sort of affordable housing.</i>
+
+316
+00:21:50,851 --> 00:21:55,981
+And he was so young, by the standards
+of a world-renowned architect,
+
+317
+00:21:56,065 --> 00:22:01,235
+<i>that he had to go from being</i>
+<i>a scrappy, young architect</i>
+
+318
+00:22:01,320 --> 00:22:04,700
+<i>to a large-scale, almost corporate firm.</i>
+
+319
+00:22:05,574 --> 00:22:08,244
+<i>And he's had to ramp that up</i>
+<i>very, very quickly.</i>
+
+320
+00:22:09,495 --> 00:22:12,615
+[Bjarke]<i> </i>Some of the criticisms have been
+that our buildings are too cheap,
+
+321
+00:22:12,706 --> 00:22:15,416
+but that's because, honestly,
+they have been cheap buildings.
+
+322
+00:22:17,753 --> 00:22:20,303
+<i>But somehow we manage to</i>
+<i>turn that into architecture</i>
+
+323
+00:22:20,381 --> 00:22:24,391
+<i>that actually points in new directions,</i>
+<i>opens up new possibilities,</i>
+
+324
+00:22:24,468 --> 00:22:27,138
+<i>but in a field where</i>
+<i>there is almost zero innovation.</i>
+
+325
+00:22:30,307 --> 00:22:33,137
+<i>The Maritime Museum,</i>
+<i>is our first museum.</i>
+
+326
+00:22:34,395 --> 00:22:38,515
+<i>That has found much more universal praise</i>
+<i>simply because it's a museum</i>
+
+327
+00:22:38,607 --> 00:22:43,027
+<i>and therefore it came with the budgets</i>
+<i>where you can do a little bit more.</i>
+
+328
+00:22:45,614 --> 00:22:47,494
+[Rice]<i> He wants to do everything.</i>
+
+329
+00:22:47,575 --> 00:22:50,115
+<i>He wants to build 1,000-foot skyscrapers,</i>
+
+330
+00:22:50,202 --> 00:22:52,962
+I think he wants to build,
+you know, museums,
+
+331
+00:22:53,038 --> 00:22:55,208
+I think he wants to build
+football stadiums.
+
+332
+00:22:56,292 --> 00:22:59,502
+<i>The issue is he doesn't feel</i>
+<i>that he needs to make a choice.</i>
+
+333
+00:23:00,421 --> 00:23:02,591
+[church bell rings]
+
+334
+00:23:05,676 --> 00:23:07,506
+[piano music playing]
+
+335
+00:23:08,596 --> 00:23:10,346
+[Høpfner] <i>Danes hate big scales.</i>
+
+336
+00:23:12,850 --> 00:23:15,020
+<i>But Bjarke brought in the big scale.</i>
+
+337
+00:23:17,271 --> 00:23:21,901
+<i>And they were very skeptic</i>
+<i>and, I would say, quite hateful.</i>
+
+338
+00:23:26,238 --> 00:23:31,448
+[Knud] <i>There were one or two old</i>
+<i>professors at the School of Architecture</i>
+
+339
+00:23:33,454 --> 00:23:36,424
+<i>that were very skeptical and critical.</i>
+
+340
+00:23:38,083 --> 00:23:43,633
+It is easy to understand
+if you consider how young he was.
+
+341
+00:23:47,926 --> 00:23:49,546
+[Høpfner] <i>He never follows the rules.</i>
+
+342
+00:23:49,637 --> 00:23:56,267
+And a lot of my fellow developers said,
+"Per, how can you build with this guy?"
+
+343
+00:24:01,065 --> 00:24:02,935
+[Bjarke] <i>Whenever we talk</i>
+<i>about architecture,</i>
+
+344
+00:24:03,025 --> 00:24:05,235
+<i>and whenever people have</i>
+<i>opinions about architecture,</i>
+
+345
+00:24:05,319 --> 00:24:08,279
+<i>the most typical argument is:</i>
+
+346
+00:24:08,364 --> 00:24:10,954
+<i>something is bad</i>
+<i>because it doesn't fit in.</i>
+
+347
+00:24:11,033 --> 00:24:12,583
+[piano music continues]
+
+348
+00:24:15,663 --> 00:24:17,923
+<i>And maybe in Copenhagen,</i>
+<i>if you would look out,</i>
+
+349
+00:24:17,998 --> 00:24:20,998
+you would think that it's red brick
+and red tiles.
+
+350
+00:24:21,710 --> 00:24:24,590
+Six stories, end of story, pitched roof.
+
+351
+00:24:26,215 --> 00:24:28,005
+But when you think about the things
+
+352
+00:24:28,092 --> 00:24:30,222
+that people really associate
+with Copenhagen,
+
+353
+00:24:30,302 --> 00:24:33,722
+that the Copenhageners think
+are unique to their city,
+
+354
+00:24:33,806 --> 00:24:36,476
+they always think about
+those historical spires.
+
+355
+00:24:38,435 --> 00:24:42,475
+<i>If everybody followed the rules,</i>
+<i>Copenhagen wouldn't look like Copenhagen.</i>
+
+356
+00:24:45,651 --> 00:24:49,361
+And I think it's going to be interesting
+to see, like how...
+
+357
+00:24:50,823 --> 00:24:53,493
+what's going to happen
+with Danish architecture,
+
+358
+00:24:53,575 --> 00:24:56,495
+but, of course, we also kind of migrated
+to America.
+
+359
+00:24:57,579 --> 00:24:59,499
+[upbeat music playing]
+
+360
+00:25:08,507 --> 00:25:11,797
+<i>The city is an experiment and Manhattan</i>
+<i>is the perfect example of that.</i>
+
+361
+00:25:14,263 --> 00:25:16,773
+<i>It's about accommodating diversity.</i>
+
+362
+00:25:19,685 --> 00:25:24,055
+<i>And after five years at BIG,</i>
+<i>we were in a pretty good spot,</i>
+
+363
+00:25:24,148 --> 00:25:27,568
+<i>but New York felt like</i>
+<i>it could be a real adventure.</i>
+
+364
+00:25:31,530 --> 00:25:33,120
+[Knud] <i>It was a great opportunity.</i>
+
+365
+00:25:34,199 --> 00:25:37,369
+<i>He needed more space</i>
+
+366
+00:25:37,453 --> 00:25:40,253
+because he wanted
+to make big architecture.
+
+367
+00:25:45,252 --> 00:25:47,382
+[Bjarke] <i>Things that evolved</i>
+<i>in one context</i>
+
+368
+00:25:47,463 --> 00:25:51,683
+<i>suddenly find their true potential</i>
+<i>when they move into another context.</i>
+
+369
+00:25:53,135 --> 00:25:54,675
+To begin with such a big canvas
+
+370
+00:25:54,762 --> 00:25:58,682
+like a city block
+on the waterfront of Manhattan,
+
+371
+00:25:59,558 --> 00:26:04,188
+this is a once-in-a-lifetime opportunity,
+we cannot mess it up.
+
+372
+00:26:13,113 --> 00:26:15,573
+<i>The Courtscraper is this hybrid</i>
+
+373
+00:26:15,657 --> 00:26:18,447
+<i>of an American skyscraper</i>
+<i>and a Copenhagen courtyard.</i>
+
+374
+00:26:20,370 --> 00:26:23,580
+[Martinussen] <i>When you get into</i>
+<i>that league, everything changes.</i>
+
+375
+00:26:23,665 --> 00:26:27,955
+<i>New York is the city of the world,</i>
+<i>so it can't get more wild.</i>
+
+376
+00:26:34,176 --> 00:26:36,596
+[Bjarke] <i>There was</i>
+<i>a certain energy and pioneering</i>
+
+377
+00:26:36,678 --> 00:26:40,598
+and maybe I just felt like
+feeling that energy again.
+
+378
+00:26:49,900 --> 00:26:54,400
+The Royal Parks are our landlords
+and this is their beautiful park
+
+379
+00:26:54,488 --> 00:26:59,118
+and they stipulate that the architecture
+
+380
+00:26:59,201 --> 00:27:02,121
+cannot come
+within three meters of the tree.
+
+381
+00:27:02,204 --> 00:27:05,254
+Now that of course
+is not a problem in principle,
+
+382
+00:27:05,332 --> 00:27:06,832
+but it is a problem in practice.
+
+383
+00:27:06,917 --> 00:27:09,497
+So the question is,
+is this three meters?
+
+384
+00:27:09,586 --> 00:27:14,166
+This is like, one, two, three.
+In my mind, we can nudge it.
+
+385
+00:27:16,844 --> 00:27:20,264
+-I think we can nudge it a meter over.
+-You think a whole meter?
+
+386
+00:27:20,347 --> 00:27:21,467
+Yeah.
+
+387
+00:27:21,557 --> 00:27:22,977
+So you need another meter?
+
+388
+00:27:23,058 --> 00:27:24,138
+I think if we just--
+
+389
+00:27:24,226 --> 00:27:26,766
+And then we don't take it
+a meter away from the fence?
+
+390
+00:27:26,854 --> 00:27:29,944
+Take it a meter away from the fence
+and move it closer to the signature line.
+
+391
+00:27:30,858 --> 00:27:33,738
+But the other thing
+that I am seriously curious about
+
+392
+00:27:33,819 --> 00:27:35,529
+is actually when you're standing here
+
+393
+00:27:35,612 --> 00:27:40,082
+and you imagine that you would
+basically take the two yellow outlines
+
+394
+00:27:40,159 --> 00:27:42,329
+and literally flip them,
+
+395
+00:27:42,411 --> 00:27:44,911
+and I think we simply turn the other way.
+
+396
+00:27:44,997 --> 00:27:46,917
+-And then we move it--
+-So it comes out...
+
+397
+00:27:46,999 --> 00:27:48,499
+It grazes the path
+
+398
+00:27:48,917 --> 00:27:51,797
+and then the entire hill is gonna be
+in the sun, which is also nice.
+
+399
+00:27:51,879 --> 00:27:54,969
+-Perfect, lovely.
+-That could be nice, it's so exciting.
+
+400
+00:28:07,060 --> 00:28:11,320
+[Bjarke] <i>The Serpentine, right now,</i>
+<i>is massively under construction.</i>
+
+401
+00:28:13,901 --> 00:28:16,701
+<i>Fiberline, the company</i>
+<i>that makes the boxes,</i>
+
+402
+00:28:16,778 --> 00:28:21,528
+<i>is plowing ahead and is shipping</i>
+<i>the first shipment to go to London.</i>
+
+403
+00:28:28,373 --> 00:28:31,383
+<i>Obviously we don't have</i>
+<i>any wiggle room from the beginning.</i>
+
+404
+00:28:31,460 --> 00:28:34,550
+<i>So we're now finding ways to catch up.</i>
+
+405
+00:28:39,009 --> 00:28:42,469
+<i>The beauty of it</i>
+<i>is you can take a single material,</i>
+
+406
+00:28:42,554 --> 00:28:44,474
+<i>a single technique, a single idea,</i>
+
+407
+00:28:44,556 --> 00:28:47,976
+and you can make very clear statements,
+
+408
+00:28:48,060 --> 00:28:52,520
+<i>undiluted by those thousands</i>
+<i>of constraints and compromises</i>
+
+409
+00:28:52,606 --> 00:28:55,226
+<i>and negotiations, which take so long.</i>
+
+410
+00:28:58,570 --> 00:29:02,990
+<i>Over the last 15 years,</i>
+<i>we've completed 12 or 13 buildings.</i>
+
+411
+00:29:05,786 --> 00:29:08,906
+<i>But right now,</i>
+<i>we have 17 construction sites.</i>
+
+412
+00:29:12,834 --> 00:29:17,264
+Right where this new green promenade
+touches downtown,
+
+413
+00:29:17,339 --> 00:29:19,129
+it's going to create a new urban oasis,
+
+414
+00:29:19,216 --> 00:29:21,546
+which is going to become
+our new neighborhood.
+
+415
+00:29:21,635 --> 00:29:23,675
+[inspirational music playing]
+
+416
+00:29:34,606 --> 00:29:36,646
+<i>In our work, Yes Is More.</i>
+
+417
+00:29:38,277 --> 00:29:41,487
+<i>We try to come up with this</i>
+<i>inclusive approach to architecture,</i>
+
+418
+00:29:41,571 --> 00:29:43,991
+<i>of getting everybody's input</i>
+<i>to the extreme,</i>
+
+419
+00:29:44,491 --> 00:29:47,291
+where suddenly it becomes
+the driving force.
+
+420
+00:29:49,037 --> 00:29:50,287
+<i>We're not gonna stop</i>
+
+421
+00:29:50,372 --> 00:29:53,672
+until we have incorporated
+every single concern, no matter how small.
+
+422
+00:29:53,750 --> 00:29:55,880
+[inspirational music continues]
+
+423
+00:29:56,962 --> 00:29:59,212
+<i>This obsession</i>
+<i>about making everybody happy</i>
+
+424
+00:29:59,298 --> 00:30:03,048
+<i>becomes a recipe for making</i>
+<i>something that is really extraordinary,</i>
+
+425
+00:30:03,135 --> 00:30:06,305
+<i>because it has to perform</i>
+<i>in so many different ways.</i>
+
+426
+00:30:11,351 --> 00:30:15,361
+<i>These buildings become like</i>
+<i>interesting scales in your own life.</i>
+
+427
+00:30:16,148 --> 00:30:17,268
+You have to ask yourself:
+
+428
+00:30:17,357 --> 00:30:20,317
+is this going to be worth
+the next seven years of my life?
+
+429
+00:30:20,402 --> 00:30:26,952
+And if you're not realizing a dream,
+then seven years is a really long time.
+
+430
+00:30:28,118 --> 00:30:30,828
+[man in Danish] Some things are missing.
+That's one thing.
+
+431
+00:30:30,912 --> 00:30:33,042
+There are things
+that aren't placed right, either.
+
+432
+00:30:34,082 --> 00:30:35,832
+[Bjarke in Danish]
+How wrongly are they placed?
+
+433
+00:30:36,960 --> 00:30:41,050
+[man]
+It touches, so that there isn't room...
+
+434
+00:30:41,131 --> 00:30:42,921
+-[Bjarke] Oh, funny.
+-Look.
+
+435
+00:30:44,718 --> 00:30:47,798
+[Rice in English] <i>Is he doing</i>
+<i>too many projects at once?</i>
+
+436
+00:30:47,888 --> 00:30:49,558
+<i>Is he spread too thin?</i>
+
+437
+00:30:50,432 --> 00:30:53,812
+<i>If you're the architect who says yes</i>
+<i>to everything, including every commission,</i>
+
+438
+00:30:53,894 --> 00:30:55,234
+do you, at some point,
+
+439
+00:30:55,312 --> 00:30:58,322
+have to start making compromises
+in your vision?
+
+440
+00:30:58,398 --> 00:31:00,108
+Do you start repeating yourself?
+
+441
+00:31:03,195 --> 00:31:06,155
+[podcast host 1] <i>Should we take a look</i>
+<i>at what some people think of Bjarke?</i>
+
+442
+00:31:06,239 --> 00:31:07,279
+[podcast host 2] <i>Let's hear it.</i>
+
+443
+00:31:07,949 --> 00:31:10,119
+[podcast host 1] <i>"BIG's projects</i>
+<i>all repeat similar traits:</i>
+
+444
+00:31:10,202 --> 00:31:13,502
+<i>stacked, banal glass volumes</i>
+<i>with roof gardens,</i>
+
+445
+00:31:13,580 --> 00:31:15,790
+<i>cheaply made for developer satisfaction."</i>
+
+446
+00:31:15,874 --> 00:31:17,254
+<i>Another comment is:</i>
+
+447
+00:31:17,334 --> 00:31:21,634
+<i>"BIG sucks. My nine-year-old</i>
+<i>does more interesting shit in </i>Minecraft<i>."</i>
+
+448
+00:31:23,632 --> 00:31:25,682
+[Rice]<i> The issue is he can</i>
+<i>sort of freely take</i>
+
+449
+00:31:25,759 --> 00:31:28,179
+<i>from all sorts of aesthetic traditions</i>
+
+450
+00:31:28,261 --> 00:31:31,471
+<i>and create things that are</i>
+<i>aesthetic promiscuity.</i>
+
+451
+00:31:32,265 --> 00:31:34,265
+<i>In that he can, to put it crassly,</i>
+
+452
+00:31:34,351 --> 00:31:39,111
+<i>market in a way that's</i>
+<i>elegant, innovative and fun.</i>
+
+453
+00:31:43,944 --> 00:31:46,154
+[Bjarke]<i> If you go beyond indifferent,</i>
+
+454
+00:31:46,238 --> 00:31:49,368
+<i>you will awaken a response</i>
+<i>in both extremes, right?</i>
+
+455
+00:31:54,955 --> 00:31:56,615
+Especially in the age of the internet.
+
+456
+00:31:57,916 --> 00:32:03,296
+<i>If you read the comments on blogs</i>
+<i>as if they are valid criticisms,</i>
+
+457
+00:32:03,380 --> 00:32:05,050
+<i>then you're going to have a rough time.</i>
+
+458
+00:32:07,634 --> 00:32:09,094
+<i>I really grew a thick skin.</i>
+
+459
+00:32:13,265 --> 00:32:15,095
+<i>When you're doing something like this,</i>
+
+460
+00:32:15,600 --> 00:32:17,850
+even though it's carefully crafted,
+
+461
+00:32:17,936 --> 00:32:21,186
+and premeditated and discussed
+and designed and tested,
+
+462
+00:32:22,149 --> 00:32:25,359
+when you see it,
+it has to feel effortless.
+
+463
+00:32:26,570 --> 00:32:28,820
+-[man in Danish] This is the bar.
+-That's the bar?
+
+464
+00:32:28,905 --> 00:32:30,275
+[man] So these gratings
+are going in afterwards.
+
+465
+00:32:30,365 --> 00:32:31,865
+[Bjarke] The bar up there, right?
+
+466
+00:32:33,452 --> 00:32:35,042
+It will be quite cool with the gratings.
+
+467
+00:32:35,537 --> 00:32:36,367
+[laughs]
+
+468
+00:32:36,455 --> 00:32:38,495
+[Bjarke in English]
+<i>All the things that end up</i>
+
+469
+00:32:38,582 --> 00:32:40,382
+<i>becoming the values</i>
+<i>that somehow define you</i>
+
+470
+00:32:40,459 --> 00:32:42,589
+<i>are all the things you take for granted,</i>
+<i>right?</i>
+
+471
+00:32:46,089 --> 00:32:49,549
+<i>I grew up in a tiny house</i>
+<i>with a giant garden.</i>
+
+472
+00:32:53,180 --> 00:32:55,560
+<i>It's not my self-image</i>
+<i>to be an environmentalist</i>
+
+473
+00:32:55,640 --> 00:32:58,690
+<i>and it's not my self-image</i>
+<i>to be a social activist.</i>
+
+474
+00:32:58,768 --> 00:33:01,098
+<i>But you can't see the forest</i>
+<i>for all the trees.</i>
+
+475
+00:33:04,900 --> 00:33:05,980
+<i>This is due west.</i>
+
+476
+00:33:06,067 --> 00:33:12,947
+So the sun actually sets, and that means
+that the last 30 minutes before it's gone,
+
+477
+00:33:13,033 --> 00:33:14,033
+or let's say an hour,
+
+478
+00:33:14,117 --> 00:33:17,407
+you have two shadows
+on the walls in the back
+
+479
+00:33:17,496 --> 00:33:22,666
+because the sun is there above the trees,
+and it's also right there below the wheat.
+
+480
+00:33:23,168 --> 00:33:25,748
+<i>And both suns throw shadows,</i>
+
+481
+00:33:25,837 --> 00:33:28,967
+<i>so you have this amazing moment</i>
+<i>where the sky has two suns.</i>
+
+482
+00:33:29,049 --> 00:33:32,509
+Or at least the view has two suns,
+which is quite nice.
+
+483
+00:33:34,095 --> 00:33:38,515
+<i>And then actually another funny thing,</i>
+<i>in the winter, the water freezes.</i>
+
+484
+00:33:39,017 --> 00:33:43,857
+And suddenly the lake,
+which was normally the end of the garden,
+
+485
+00:33:43,939 --> 00:33:45,899
+became this public square
+
+486
+00:33:45,982 --> 00:33:49,192
+where every single kid,
+touching on the lake from all sides,
+
+487
+00:33:49,277 --> 00:33:50,277
+<i>would come and ice skate.</i>
+
+488
+00:33:51,404 --> 00:33:56,334
+So just like this interesting idea
+that maybe just the seasonality of things,
+
+489
+00:33:56,409 --> 00:34:00,659
+or that suddenly something
+that was a barrier became a meeting point.
+
+490
+00:34:04,834 --> 00:34:08,464
+<i>What changes over time</i>
+<i>is that naïveté fades away,</i>
+
+491
+00:34:08,838 --> 00:34:12,048
+<i>but it's replaced by another kind</i>
+<i>of confidence</i>
+
+492
+00:34:12,133 --> 00:34:15,683
+<i>that will make you better</i>
+<i>at seizing the moment</i>
+
+493
+00:34:16,555 --> 00:34:18,265
+<i>and grasping what's important.</i>
+
+494
+00:34:20,225 --> 00:34:21,975
+Okay, let's-- let's sit down.
+
+495
+00:34:22,060 --> 00:34:23,560
+[director] Doc, anything else?
+
+496
+00:34:25,021 --> 00:34:27,191
+<i>My mom has made, like, 500 meatballs.</i>
+
+497
+00:34:27,274 --> 00:34:28,444
+[laughs]
+
+498
+00:34:31,736 --> 00:34:32,856
+-[knocks]
+-[dog barks]
+
+499
+00:34:32,946 --> 00:34:35,696
+[Knud in Danish]
+Do we have microphones on?
+
+500
+00:34:35,782 --> 00:34:38,662
+[Bjarke in Danish] Yes, but I don't think
+they will use them.
+
+501
+00:34:38,743 --> 00:34:41,373
+[Knud]
+Can't you ask him to shut up?
+
+502
+00:34:41,454 --> 00:34:42,334
+[all laugh]
+
+503
+00:34:42,414 --> 00:34:46,044
+[Bjarke] Oh, Fidel.
+Can you shut the fuck up, dear Fidel?
+
+504
+00:34:53,550 --> 00:34:56,720
+[Bjarke in English] <i>There's a sense</i>
+<i>it's hard to make it in your own village,</i>
+
+505
+00:34:56,803 --> 00:34:59,433
+<i>but if you go to the big city</i>
+<i>and make it there,</i>
+
+506
+00:34:59,514 --> 00:35:02,234
+<i>then, "Ah, it's one of us. He did it."</i>
+
+507
+00:35:05,020 --> 00:35:09,570
+<i>I think we also changed</i>
+<i>people's mindset of what's possible,</i>
+
+508
+00:35:10,066 --> 00:35:15,276
+so I think Copenhageners
+got used to more crazy ideas,
+
+509
+00:35:15,363 --> 00:35:17,073
+so when we actually presented
+
+510
+00:35:17,157 --> 00:35:21,117
+the idea of putting a giant ski slope
+on the roof of a power plant,
+
+511
+00:35:21,202 --> 00:35:23,332
+I think it was in an environment
+
+512
+00:35:23,413 --> 00:35:27,003
+that we had already influenced
+a little bit over the last decade,
+
+513
+00:35:27,083 --> 00:35:32,633
+so that it was receptive
+to that kind of thinking.
+
+514
+00:35:37,093 --> 00:35:40,353
+<i>We felt that we could propose</i>
+<i>something seemingly insane</i>
+
+515
+00:35:40,430 --> 00:35:42,100
+<i>and actually get away with it.</i>
+
+516
+00:35:43,516 --> 00:35:44,346
+<i>Copenhill.</i>
+
+517
+00:35:45,977 --> 00:35:49,437
+<i>A waste-to-energy power plant that has</i>
+<i>a giant public park on the roof</i>
+
+518
+00:35:49,522 --> 00:35:50,572
+<i>where you can ski.</i>
+
+519
+00:35:53,568 --> 00:35:56,318
+<i>It's the tallest and biggest building</i>
+<i>in Copenhagen.</i>
+
+520
+00:35:58,198 --> 00:36:00,368
+<i>It's, again, this idea</i>
+<i>of environmental thinking,</i>
+
+521
+00:36:00,450 --> 00:36:03,370
+<i>that if you have a power plant</i>
+<i>that is so clean</i>
+
+522
+00:36:03,453 --> 00:36:05,963
+<i>that you only have a little bit of CO2</i>
+
+523
+00:36:06,039 --> 00:36:09,169
+<i>and a little bit of steam coming out</i>
+<i>of the chimney, but no toxins,</i>
+
+524
+00:36:10,001 --> 00:36:12,551
+<i>you literally have clean mountain air.</i>
+
+525
+00:36:15,548 --> 00:36:18,968
+<i>And instead of having to be</i>
+<i>far away from it, you can enjoy it.</i>
+
+526
+00:36:20,762 --> 00:36:24,222
+[in Danish] It's quite amazing
+that this will be the children's hill.
+
+527
+00:36:24,307 --> 00:36:26,017
+It begins all the way up there!
+
+528
+00:36:26,101 --> 00:36:28,231
+[builder 1 in Danish] It's high up,
+even though it's the children's hill.
+
+529
+00:36:28,311 --> 00:36:29,601
+[builder 2 in Danish] Yeah, that's right.
+
+530
+00:36:29,896 --> 00:36:31,476
+It's too cool!
+
+531
+00:36:36,069 --> 00:36:37,739
+[Bjarke in English] <i>Of course you can say</i>
+
+532
+00:36:37,821 --> 00:36:40,781
+<i>you put an Alpine ski slope</i>
+<i>on the roof of a building.</i>
+
+533
+00:36:40,865 --> 00:36:42,735
+<i>It's a building, it's not a mountain.</i>
+
+534
+00:36:44,911 --> 00:36:50,461
+<i>I think, to my relief, it feels</i>
+<i>much more like being on a mountainside</i>
+
+535
+00:36:50,542 --> 00:36:51,792
+<i>than being on a roof.</i>
+
+536
+00:36:54,087 --> 00:36:58,167
+This is around 130 feet
+and the top is 300.
+
+537
+00:37:07,976 --> 00:37:10,896
+The elevator arrives there
+so that when you come out,
+
+538
+00:37:10,979 --> 00:37:13,519
+you have almost like a flat area here.
+
+539
+00:37:14,232 --> 00:37:16,902
+And then you sort of...
+
+540
+00:37:18,319 --> 00:37:19,609
+Then you just take off.
+
+541
+00:37:24,993 --> 00:37:29,833
+<i>I think a project like this can be</i>
+<i>sort of a beacon in showing the world...</i>
+
+542
+00:37:31,207 --> 00:37:34,537
+<i>clean tech presents</i>
+<i>almost utopian possibilities.</i>
+
+543
+00:37:35,920 --> 00:37:40,090
+<i>And I think the Steam Ring</i>
+<i>is a powerful symbol of exactly that.</i>
+
+544
+00:37:44,763 --> 00:37:47,563
+<i>The chimney, instead of being</i>
+<i>a symbol of pollution,</i>
+
+545
+00:37:47,640 --> 00:37:49,390
+<i>it becomes a celebration.</i>
+
+546
+00:37:51,811 --> 00:37:55,191
+<i>We've worked with Realities United</i>
+<i>to design the chimney</i>
+
+547
+00:37:55,273 --> 00:37:57,283
+<i>so that it puffs rings of steam.</i>
+
+548
+00:37:59,194 --> 00:38:02,114
+<i>And it's also like somehow, like,</i>
+<i>when you start this kind of journey,</i>
+
+549
+00:38:02,197 --> 00:38:04,737
+<i>it's, like, you know</i>
+<i>what's important for you...</i>
+
+550
+00:38:06,993 --> 00:38:10,123
+<i>but you don't necessarily know</i>
+<i>where you're going.</i>
+
+551
+00:38:10,872 --> 00:38:14,212
+<i>But you know that,</i>
+<i>if you make the decision</i>
+
+552
+00:38:14,292 --> 00:38:16,922
+<i>based on these things</i>
+<i>that you know matter to you,</i>
+
+553
+00:38:17,420 --> 00:38:21,050
+<i>wherever you're gonna end up,</i>
+<i>it's where you need to go.</i>
+
+554
+00:38:23,301 --> 00:38:26,721
+Of course, I couldn't have predicted this
+when we did this,
+
+555
+00:38:27,847 --> 00:38:30,427
+but they're definitely
+sort of a similar spirit.
+
+556
+00:38:32,894 --> 00:38:35,104
+[director] Where's the Maritime
+Youth House from here?
+
+557
+00:38:35,188 --> 00:38:36,438
+It's basically like...
+
+558
+00:38:38,066 --> 00:38:40,356
+You can see it
+where the trees are, exactly.
+
+559
+00:38:41,444 --> 00:38:42,824
+And then you can see...
+
+560
+00:38:44,739 --> 00:38:49,579
+the Mountain and the VM are right there.
+
+561
+00:38:50,119 --> 00:38:51,659
+[director] What about the chapel?
+
+562
+00:38:52,330 --> 00:38:55,210
+That's right there.
+
+563
+00:38:59,629 --> 00:39:02,879
+This is probably
+the most spectacular toilet experience
+
+564
+00:39:02,966 --> 00:39:04,716
+you can get in Copenhagen at this point.
+
+565
+00:39:04,801 --> 00:39:06,761
+[laughs]
+
+566
+00:39:12,475 --> 00:39:16,015
+<i>You can take things</i>
+<i>that are considered infrastructure:</i>
+
+567
+00:39:16,104 --> 00:39:18,314
+<i>highways, bridges, power plants...</i>
+
+568
+00:39:18,898 --> 00:39:21,478
+and crossbreed it,
+
+569
+00:39:21,568 --> 00:39:25,488
+so that it actually has positive
+social and environmental side effects,
+
+570
+00:39:26,406 --> 00:39:27,526
+<i>like the power plant.</i>
+
+571
+00:39:29,659 --> 00:39:33,959
+<i>Those combinations are very powerful</i>
+<i>because it's taking a very strong force,</i>
+
+572
+00:39:34,038 --> 00:39:36,958
+<i>which is necessity, utility,</i>
+
+573
+00:39:38,543 --> 00:39:42,463
+<i>and giving it poetry and possibility.</i>
+
+574
+00:39:45,383 --> 00:39:48,853
+There's something there
+that can be taken much further.
+
+575
+00:40:10,909 --> 00:40:12,949
+-[photographers chattering]
+-[cameras clicking]
+
+576
+00:40:22,253 --> 00:40:26,093
+[Peyton-Jones] <i>For Bjarke to have</i>
+<i>achieved this incredible prominence</i>
+
+577
+00:40:26,507 --> 00:40:27,757
+<i>at 41 years old</i>
+
+578
+00:40:27,842 --> 00:40:29,802
+<i>is nothing short of extraordinary.</i>
+
+579
+00:40:30,595 --> 00:40:34,175
+<i>Because in order to do that,</i>
+<i>an architect has to have built.</i>
+
+580
+00:40:37,310 --> 00:40:43,150
+[Bjarke] <i>There is this kick of seeing</i>
+<i>a completely novel thing come to life.</i>
+
+581
+00:40:43,232 --> 00:40:44,532
+[clapping]
+
+582
+00:40:44,609 --> 00:40:45,739
+<i>Thank you.</i>
+
+583
+00:40:46,361 --> 00:40:49,571
+It is such a tremendous honor to play
+in the middle of a royal park,
+
+584
+00:40:49,656 --> 00:40:52,366
+and especially since
+it's the Serpentine Pavilion...
+
+585
+00:40:53,701 --> 00:40:55,871
+[director]<i> Are you surprised</i>
+<i>by how far your son's gone?</i>
+
+586
+00:40:55,954 --> 00:40:57,334
+<i>And how quickly he's done it?</i>
+
+587
+00:40:58,206 --> 00:41:03,126
+Yes. Frankly speaking,
+we had not expected that.
+
+588
+00:41:03,211 --> 00:41:04,131
+[laughs]
+
+589
+00:41:04,212 --> 00:41:06,422
+It's... special.
+
+590
+00:41:09,300 --> 00:41:12,010
+We live in a time
+where we need to pull all disciplines
+
+591
+00:41:12,095 --> 00:41:14,675
+to address the big questions
+of the 21st century.
+
+592
+00:41:14,764 --> 00:41:16,394
+<i>And Bjarke never really shied away</i>
+
+593
+00:41:16,474 --> 00:41:19,944
+<i>from really addressing topics</i>
+<i>which are found beyond architecture.</i>
+
+594
+00:41:22,271 --> 00:41:27,031
+[Bjarke] <i>I am longing to discover things</i>
+<i>that I hadn't even thought about.</i>
+
+595
+00:41:28,611 --> 00:41:32,871
+There's this real genuine moment
+of immaculate inception,
+
+596
+00:41:32,949 --> 00:41:34,489
+where you're sort of...
+
+597
+00:41:35,368 --> 00:41:37,998
+"This is brilliant.
+I never thought about this before.
+
+598
+00:41:38,079 --> 00:41:39,999
+This would be amazing. It's beautiful."
+
+599
+00:41:40,581 --> 00:41:41,791
+<i>And two seconds after,</i>
+
+600
+00:41:41,874 --> 00:41:45,594
+<i>you can't think of the world without</i>
+<i>thinking of this being a part of it.</i>
+
+601
+00:41:45,670 --> 00:41:47,800
+[piano music playing]
+
+602
+00:41:50,383 --> 00:41:54,723
+From Tribeca, it will appear like
+a vertical village of singular buildings,
+
+603
+00:41:54,804 --> 00:41:57,474
+each tailored
+to their individual activities,
+
+604
+00:41:57,557 --> 00:42:01,187
+stacked on top of each other,
+forming parks and plazas in the sky.
+
+605
+00:42:01,269 --> 00:42:02,649
+[piano music continues]
+
+606
+00:42:32,216 --> 00:42:37,346
+[Bjarke] <i>I like this idea</i>
+<i>about architecture being a way</i>
+
+607
+00:42:37,430 --> 00:42:43,100
+to manifest your dreams
+into the real world.
+
+608
+00:42:44,896 --> 00:42:47,606
+<i>It's almost like a shaman</i>
+<i>with brick and mortar.</i>
+
+609
+00:42:49,609 --> 00:42:53,399
+<i>That is the true power</i>
+<i>that we as humans have.</i>
+
+610
+00:42:53,488 --> 00:42:57,408
+<i>We actually have such a massive</i>
+<i>impact on our environment.</i>
+
+611
+00:42:57,492 --> 00:42:59,242
+<i>So now that we have this power,</i>
+
+612
+00:42:59,327 --> 00:43:05,667
+<i>we can either use it to create a nightmare</i>
+<i>or we can use it to realize our dreams.</i>
+
+613
+00:43:06,751 --> 00:43:09,211
+<i>And, of course,</i>
+<i>the latter is much more interesting.</i>
+
+614
+00:43:13,216 --> 00:43:14,676
+[director] <i>Do you dream of buildings?</i>
+
+615
+00:43:15,551 --> 00:43:18,971
+I never dream about my work, actually,
+interestingly enough.
+
+616
+00:43:19,055 --> 00:43:21,135
+[director] There goes the end
+of the documentary.
+
+617
+00:43:21,224 --> 00:43:22,354
+[Bjarke laughs]
+
+618
+00:43:24,185 --> 00:43:25,055
+[director] <i>Cut!</i>
+
+619
+00:43:25,144 --> 00:43:26,064
+[upbeat music playing]
+
